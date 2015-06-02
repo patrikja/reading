@@ -2,7 +2,12 @@
 \bibliography{read.bib}
 
 * Functional logic programming
-** Higher-Order Logic Programming
+** Functional logic programming \cite{Antoy:2010:FLP:1721654.1721675}
+http://cacm.acm.org/magazines/2010/4/81495-functional-logic-programming/fulltext
+Read 2015-06-01. Simple overview of FLP using Curry in the Communications of ACM.
+Syntax very close to Haskell, just added syntax for indicating free variables.
+Semantics: smart search (narrowing) in combination with usual FP reduction.
+** Higher-Order Logic Programming                    Skimmed 2015-05-28.
 G. Nadathur and D. Miller, Higher-Order Logic Programming, in Handbook of Logic in Artificial Intelligence and Logic Programming, D. M. Gabbay, C. J. Hogger and J. A. Robinson (eds.), Oxford University Press, January 1998, pages 499--590. (dvi) (ps)
 http://www.lix.polytechnique.fr/~dale/papers/Handbook_Logic_AI_LP.pdf
 ** LambdaProlog
@@ -11,7 +16,6 @@ https://github.com/teyjus/teyjus/wiki/LambdaProlog
 http://en.wikipedia.org/wiki/Curry_(programming_language)
 ** Mercury
 http://en.wikipedia.org/wiki/Mercury_(programming_language)
-**
 
 * Policy Analysis
 ** \cite{WalkerPolicyAnalysis2000}                   Read 2015-05-11. Note: "Sadie 1"
