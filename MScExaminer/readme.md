@@ -2,6 +2,15 @@
 
 From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU. I usually add an entry in the final phase of the course.
 
+## Jesper Lungqvist
+
+* Title: Franca IDL C Code Generator
+* Supervisor: Mary Sheeran
+* Examiner: Patrik Jansson
+* ​This thesis work was conducted at Pelagicore AB in Gothenburg.
+
+* 2015-08-20: [MSc thesis presentation](http://www.chalmers.se/sv/institutioner/cse/kalendarium/Sidor/jesperlundqvist.aspx)
+
 ## Irene Lobo Valbuena
 
 * Title: Automated discovery of conditional lemmas in Hipster
