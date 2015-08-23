@@ -9,7 +9,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * ​This thesis work was conducted at Pelagicore AB in Gothenburg.
 
-* 2015-08-20: [MSc thesis presentation](http://www.chalmers.se/sv/institutioner/cse/kalendarium/Sidor/jesperlundqvist.aspx)
+* 2015-08-20: Read final report draft. Final version due 2015-09-07.
+* 2015-08-20: [MSc thesis presentation](http://www.chalmers.se/sv/institutioner/cse/kalendarium/Sidor/jesperlundqvist.aspx) [Pass]
 
 ## Irene Lobo Valbuena
 
@@ -18,7 +19,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2015-06-29: Final report done => examination done.
-* 2015-06-08: MSc thesis presentation
+* 2015-06-08: MSc thesis presentation [Pass]
 
 ## Linus Färnstrand
 
@@ -27,4 +28,4 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2015-06-14: Final report done => examination done.
-* 2015-06-08: MSc thesis presentation
+* 2015-06-08: MSc thesis presentation [Pass]
