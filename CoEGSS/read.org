@@ -1,0 +1,8 @@
+# Material related to the CoEGSS project
+
+CoEGSS = Center of Excellence on Global Systems Science
+
+* To read:
+** [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
+James Church
+** 2015-09-14: Read pages 1-21 (preface)
