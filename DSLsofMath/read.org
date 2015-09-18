@@ -7,3 +7,7 @@ https://wiki.science.ru.nl/tfpie/images/4/4a/Tfpie2014_submission_6.pdf
 
 Started reading 2015-06-20.
 Very well written and interesting.
+* Painless Conjugate Gradient, J. R. Chewchuk
+http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+
+A detailed explanation and illustration of the "Conjugate gradient" method for solving large sparse matrix equations.
