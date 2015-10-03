@@ -8,3 +8,4 @@ CoEGSS = Center of Excellence on Global Systems Science
 *** 2015-09-14: Read pages [1-21 preface]
 *** 2015-09-24: Ch 1: pages 1-18. Created [a repo for notes and code](https://github.com/patrikja/LearningHaskellDataAnalysis/)
 *** 2015-09-27: Ch 2: pages 19-40. Added code to the repo.
+*** 2015-10-03: Ch 3: pages 41-56. (now at page 46)
