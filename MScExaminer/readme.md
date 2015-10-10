@@ -2,14 +2,25 @@
 
 From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU. I usually add an entry in the final phase of the course.
 
+* [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
+
+## Aron Manucheri
+
+* Prel. Title: Implementing cooperative-driving scenarios in [CHAOS](https://github.com/olafland/chaos)
+* Supervisor: Olaf Landsiedel
+* Examiner: Patrik Jansson
+* 2015-08-31: Start
+
 ## Jesper Lungqvist
 
 * Title: Franca IDL C Code Generator
+    * Development and Evaluation of New Tools for Franca IDL
 * Supervisor: Mary Sheeran
 * Examiner: Patrik Jansson
 * ​This thesis work was conducted at Pelagicore AB in Gothenburg.
 
-* 2015-08-20: Read final report draft. Final version due 2015-09-07.
+* 2015-10-08: Final report done.
+* 2015-08-20: Read final report draft. Final version due 2015-09-07 to MaSh.
 * 2015-08-20: [MSc thesis presentation](http://www.chalmers.se/sv/institutioner/cse/kalendarium/Sidor/jesperlundqvist.aspx) [Pass]
 
 ## Irene Lobo Valbuena
