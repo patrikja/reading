@@ -29,7 +29,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2015-06-29: Final report done => examination done.
+* 2015-10-13: Final report done
+* 2015-06-29: Read final report draft
 * 2015-06-08: MSc thesis presentation [Pass]
 
 ## Linus Färnstrand
