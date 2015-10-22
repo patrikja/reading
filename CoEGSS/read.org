@@ -10,4 +10,9 @@ CoEGSS = Center of Excellence on Global Systems Science
 *** 2015-09-27: Ch 2: pages 19-40. Added code to the repo.
 *** 2015-10-03: Ch 3: pages 41-56. Done.
 *** 2015-10-16: Ch 4: pages 57-76. Done.
-*** 2015-10-19: Ch 5: pages 77-93 - ongoing.
+*** 2015-10-20: Ch 5: pages 77-96. Done.
+*** 2015-10-21: Ch 6: pages 77-114. Done.
+*** 2015-10-22: Ch 7: pages 115- started
+** Parsing JSON with Aeson
+https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+*** 2015-10-22: Read 80%.
