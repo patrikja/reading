@@ -3,8 +3,17 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Parsing JSON with Aeson
+https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+*** 2015-10-22: Read 80%.
+* Read
 ** [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
    James Church
+
+Interesting and useful, but with many typos. (The typos encourages you
+to work with the text to get the code running which is good for
+learning;-)
+
 *** 2015-09-14: Read pages [1-21 preface]
 *** 2015-09-24: Ch 1: pages 1-18. Created [a repo for notes and code](https://github.com/patrikja/LearningHaskellDataAnalysis/)
 *** 2015-09-27: Ch 2: pages 19-40. Added code to the repo.
@@ -13,7 +22,5 @@ CoEGSS = Center of Excellence on Global Systems Science
 *** 2015-10-20: Ch 5: pages 77-96. Done.
 *** 2015-10-21: Ch 6: pages 77-114. Done.
 *** 2015-10-22: Ch 7: pages 115-136. Done.
-*** 2015-10-29: Ch 8: pages 137-(156) started
-** Parsing JSON with Aeson
-https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
-*** 2015-10-22: Read 80%.
+*** 2015-10-29: Ch 8: pages 137-159. Done.
+*** 2015-10-31: App.: pages 160-167. Done.
