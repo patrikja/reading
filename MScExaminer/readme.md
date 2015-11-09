@@ -4,16 +4,37 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
+# Ongoing
+
+## Andreas Arvidsson/Robin Touche
+
+* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) for Haskell
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* 2015-10-25: Start
+
+## Runa Gulliksson
+
+* Prel. title: Automatic translation from SCL to Timed Automata
+* Supervisor: John Camilieri and Gerardo Schneider
+* Examiner: Patrik Jansson
+
+* 2015-10-25: Start
+
 ## Aron Manucheri
 
 * Prel. Title: Implementing cooperative-driving scenarios in [CHAOS](https://github.com/olafland/chaos)
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
+
 * 2015-08-31: Start
+
+# Done
 
 ## Jesper Lungqvist
 
-* Title: Franca IDL C Code Generator
+* Title: [Franca IDL C Code Generator](https://github.com/Pelagicore/FrancaCCG)
     * Development and Evaluation of New Tools for Franca IDL
 * Supervisor: Mary Sheeran
 * Examiner: Patrik Jansson
