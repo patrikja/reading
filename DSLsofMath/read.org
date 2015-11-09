@@ -11,3 +11,4 @@ Very well written and interesting.
 http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 
 A detailed explanation and illustration of the "Conjugate gradient" method for solving large sparse matrix equations.
+* "How to Solve It", Polya
