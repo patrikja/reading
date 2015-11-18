@@ -1,6 +1,6 @@
 # MSc theses
 
-From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU. I usually add an entry in the final phase of the course.
+From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU.
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
@@ -12,6 +12,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
+* 2015-11-13: Planning report: Pass.
 * 2015-10-25: Start
 
 ## Runa Gulliksson
@@ -20,6 +21,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Camilieri and Gerardo Schneider
 * Examiner: Patrik Jansson
 
+* 2015-11-13: Planning report: Pass
 * 2015-10-25: Start
 
 ## Aron Manucheri
