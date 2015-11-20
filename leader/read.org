@@ -5,8 +5,8 @@ http://www.nok.se/Akademisk/Titlar/Ledarskap-organisation/Ledarskap-organisation
 Läsläxa i Chalmers ledarskapsprogram (nr 8, 2015-11-05 och framåt).
 ** 2015-11-13: Intro + kapitel 1: Vad är coaching?
 ** 2015-11-15: Kapitel 2: Chefen som coach
-** 2015-11-17: Kapilel 3: Förändringens natur
-** 2015-11-18: Kapilel 4: Coachingens natur
+** 2015-11-17: Kapitel 3: Förändringens natur
+** 2015-11-18: Kapitel 4: Coachingens natur
 ** Effektiva frågor
 ** Frågesekvensen
 ** Målformulering
@@ -26,3 +26,12 @@ maskulint och feminint (i relation till ingenjörsämnet).
 
 Sid. 193: "kemiteknik som överraskning". Många studenter som lockas
 till K av ett kemiintresse stöts bort av för mycket teknik.
+* Akademins fyra rum - tankemodellen
+(läst 2015-11-20)
+Akademiska ledningsrum, Gunnar Jonnergård, Thomas Sewerin, Lisbeth Birgersson
+http://document.chalmers.se/download?docid=00000000-0000-0000-0000-000046DEE943
+http://www.chalmers.se/insidan/SV/arbetsredskap/chef/leda-medarbetare
+** Linjen
+** Nätverket
+** Forskning
+** Utbildning
