@@ -30,6 +30,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
+* 2015-11-25: Half-time report
 * 2015-08-31: Start
 
 # Done

@@ -35,3 +35,7 @@ http://www.chalmers.se/insidan/SV/arbetsredskap/chef/leda-medarbetare
 ** Nätverket
 ** Forskning
 ** Utbildning
+* WASP application
+Skummade igenom ansökan.
+https://www.wallenberg.com/kaw/18-miljarder-kronor-till-forskning-om-autonoma-system-och-mjukvaruutveckling
+https://www.wallenberg.com/kaw/en/sek-18-billion-research-autonomous-systems-and-software-development
