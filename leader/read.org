@@ -3,16 +3,36 @@ John Whitmore
 http://www.nok.se/Akademisk/Titlar/Ledarskap-organisation/Ledarskap-organisation/Nya-Coaching-for-battre-resultat/
 
 Läsläxa i Chalmers ledarskapsprogram (nr 8, 2015-11-05 och framåt).
-** 2015-11-13: Intro + kapitel 1: Vad är coaching?
-** 2015-11-15: Kapitel 2: Chefen som coach
-** 2015-11-17: Kapitel 3: Förändringens natur
-** 2015-11-18: Kapitel 4: Coachingens natur
-** Effektiva frågor
-** Frågesekvensen
-** Målformulering
-** Verkligheten - vad är det?
-** Vilka är alternativen?
-** Vad ska du göra?
+** Del 1: Principerna för coaching
+*** 2015-11-13: Intro + kapitel 1: Vad är coaching?
+*** 2015-11-15: Kapitel 2: Chefen som coach
+*** 2015-11-17: Kapitel 3: Förändringens natur
+*** 2015-11-18: Kapitel 4: Coachingens natur
+*** 2015-11-18: Kapitel 5: Effektiva frågor
+*** 2015-11-18: Kapitel 6: Frågesekvensen
+*** 2015-11-22: Kapitel 7: Målformulering
+*** 2015-11-22: Kapitel 8: Verkligheten - vad är det?
+*** 2015-11-22: Kapitel 9: Vilka är alternativen?
+*** 2015-11-23: Kapitel 10: Vad ska du göra?
+** Del 2: Coachingens praktik
+*** Kapitel 11: Vad menar vi med goda resultat?
+*** Kapitel 12: Att lära sig och att ha roligt
+*** Kapitel 13: Motivation och självtillit
+*** Kapitel 14: Att coacha för mening och syfte
+*** Kapitel 15: Feedback och utvärdering
+*** Kapitel 16: Teamutveckling
+*** Kapitel 17: Teamcoaching
+*** Kapitel 18: Att övervinna hinder mot coaching
+*** Kapitel 19: En mängd fördelar med coaching
+** Del 3: Ledarskap för optimala resultat
+*** Kapitel 20: Se, höra, växa
+*** Kapitel 21: Grunden för ledarskap
+*** Kapitel 22: Ledarskapets egenskaper
+** Del 4: Omvandling genom transpersonell coaching
+*** Kapitel 23: Emotionell intelligens
+*** Kapitel 24: Verktyg inom trnaspersonell psykologi
+*** Kapitel 25: Coaching för framtiden
+** Appendix
 * Kön, kropp, begär och teknik: Passion och instrumentalitet på två tekniska högskoleprogram
 https://gupea.ub.gu.se/handle/2077/39621
 Ottemo, Andreas
