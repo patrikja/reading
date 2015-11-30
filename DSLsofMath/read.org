@@ -20,3 +20,6 @@ Polya's "How to Solve It"
 + 3. Carrying out the plan (and check each step)
 + 4. Looking back (examine the solution, check, reflect)
 ** 2015-11-20: Pages -80
+* "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
+  https://mitpress.mit.edu/books/functional-differential-geometry
+  https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
