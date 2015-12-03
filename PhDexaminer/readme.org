@@ -1,0 +1,16 @@
+# PhD examination
+
+This is just a reading log of theses by PhD students I'm the examiner for.
+
+# Ongoing PhD studies
+
+## Anton Ekblad
+
+### Licentiate thesis
+
+* Title: A Distributed Haskell for the Modern Web
+* URL: http://ekblad.cc/lic.pdf
+* Examiner: Patrik Jansson
+* Supervisor: Koen Claessen
+* Co-supervisor: Emil Axelsson
+* 2015-12-03: Lic. thesis draft: read up to page 26
