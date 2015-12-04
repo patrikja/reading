@@ -3,6 +3,11 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Large-Scale Computing Techniques for Complex System Simulations
+Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
+http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
+DubitzkyKurowskiSchott_2012_Large-scaleComputingTechniquesForComplexSystemSimulations.pdf
+Mainly Chapter 5.
 ** Parsing JSON with Aeson
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
