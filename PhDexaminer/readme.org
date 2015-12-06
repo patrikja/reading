@@ -13,4 +13,7 @@ This is just a reading log of theses by PhD students I'm the examiner for.
 * Examiner: Patrik Jansson
 * Supervisor: Koen Claessen
 * Co-supervisor: Emil Axelsson
-* 2015-12-03: Lic. thesis draft: read up to page 38.
+* Reading the last draft before printing:
+** 2015-12-03: Lic. thesis draft: read up to page 38.
+** 2015-12-05: ... up to page 52.
+** 2015-12-06: all the way (page 111).

@@ -13,13 +13,13 @@ http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 A detailed explanation and illustration of the "Conjugate gradient" method for solving large sparse matrix equations.
 * "How to Solve It", Polya
 ** 2015-11-19: Intro (1-30)
-
 Polya's "How to Solve It"
 + 1. Understanding the problem (unknowns, data, conditions; *notation*)
 + 2. Devising a plan (seen it before? similar? split, reduce, generalise?)
 + 3. Carrying out the plan (and check each step)
 + 4. Looking back (examine the solution, check, reflect)
 ** 2015-11-20: Pages -80
+** 2015-12-05: Pages -103
 * "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
   https://mitpress.mit.edu/books/functional-differential-geometry
   https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
