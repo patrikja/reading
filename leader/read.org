@@ -3,6 +3,9 @@ John Whitmore
 http://www.nok.se/Akademisk/Titlar/Ledarskap-organisation/Ledarskap-organisation/Nya-Coaching-for-battre-resultat/
 
 Läsläxa i Chalmers ledarskapsprogram (nr 8, 2015-11-05 och framåt).
+
+Bra och tänkvärd bok som kan tillämpas på livets alla områden.
+
 ** Del 1: Principerna för coaching
 *** 2015-11-13: Intro + kapitel 1: Vad är coaching?
 *** 2015-11-15: Kapitel 2: Chefen som coach
@@ -29,10 +32,19 @@ Läsläxa i Chalmers ledarskapsprogram (nr 8, 2015-11-05 och framåt).
 *** 2015-12-13: Kapitel 21: Grunden för ledarskap
 *** 2015-12-13: Kapitel 22: Ledarskapets egenskaper
 ** Del 4: Omvandling genom transpersonell coaching
-*** Kapitel 23: Emotionell intelligens
-*** Kapitel 24: Verktyg inom transpersonell psykologi
-*** Kapitel 25: Coaching för framtiden
+*** 2015-12-16: Kapitel 23: Emotionell intelligens
+*** 2015-12-16: Kapitel 24: Verktyg inom transpersonell psykologi
+*** 2015-12-16: Kapitel 25: Coaching för framtiden
 ** Appendix
+* Akademins fyra rum - tankemodellen
+(läst 2015-11-20)
+Akademiska ledningsrum, Gunnar Jonnergård, Thomas Sewerin, Lisbeth Birgersson
+http://document.chalmers.se/download?docid=00000000-0000-0000-0000-000046DEE943
+http://www.chalmers.se/insidan/SV/arbetsredskap/chef/leda-medarbetare
+** Linjen
+** Nätverket
+** Forskning
+** Utbildning
 * Kön, kropp, begär och teknik: Passion och instrumentalitet på två tekniska högskoleprogram
 https://gupea.ub.gu.se/handle/2077/39621
 Ottemo, Andreas
@@ -46,15 +58,6 @@ maskulint och feminint (i relation till ingenjörsämnet).
 
 Sid. 193: "kemiteknik som överraskning". Många studenter som lockas
 till K av ett kemiintresse stöts bort av för mycket teknik.
-* Akademins fyra rum - tankemodellen
-(läst 2015-11-20)
-Akademiska ledningsrum, Gunnar Jonnergård, Thomas Sewerin, Lisbeth Birgersson
-http://document.chalmers.se/download?docid=00000000-0000-0000-0000-000046DEE943
-http://www.chalmers.se/insidan/SV/arbetsredskap/chef/leda-medarbetare
-** Linjen
-** Nätverket
-** Forskning
-** Utbildning
 * WASP application
 Skummade igenom ansökan.
 https://www.wallenberg.com/kaw/18-miljarder-kronor-till-forskning-om-autonoma-system-och-mjukvaruutveckling
