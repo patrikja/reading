@@ -4,6 +4,20 @@ This is just a reading log of theses by PhD students I'm the examiner for.
 
 # Ongoing PhD studies
 
+## Dan Rosén
+
+### Licentiate thesis
+
+* Title:
+* URL:
+* Examiner: Patrik Jansson
+* Supervisor: Koen Claessen
+* Co-supervisors: Moa Johansson, Jean-Philippe Bernardy
+* Reading the draft before printing:
+** 2016-01-11: Lic. thesis draft reading (planned)
+* Lic. seminar: 2016-??-??
+
+
 ## Anton Ekblad
 
 ### Licentiate thesis

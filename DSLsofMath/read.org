@@ -24,6 +24,9 @@ Polya's "How to Solve It"
 ** 2015-12-12: Pages -140
 ** 2015-12-13: Pages -160
 ** 2015-12-17: Pages -200
+** 2015-12-20: Pages -220
+** 2015-12-21: Pages -240
+** 2015-12-23: Pages -260
 * "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
   https://mitpress.mit.edu/books/functional-differential-geometry
   https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
