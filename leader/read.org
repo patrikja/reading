@@ -2,6 +2,10 @@
 http://stefangunnarsson.se/boken-professionell-feedbac.html
 Läsläxa i Chalmers ledarskapsprogram (grupp nr 8) från 2015-12-18 till 2016-01-18.
 
+En samling texter som belyser begreppet feedback från många håll och
+som ger konkreta råd och exempel på hur man kan utveckla människor och
+organisationer genom feedback.
+
 ** 2016-01-11: Inledning
 ** 2016-01-11: Varför feedback?
 ** 2016-01-12: Vilken kultur?
@@ -11,11 +15,11 @@ Läsläxa i Chalmers ledarskapsprogram (grupp nr 8) från 2015-12-18 till 2016-0
 ** 2016-01-13: Feedback på olika nivåer
 ** 2016-01-13: Försvarsmekanismer
 ** 2016-01-13: Situationsanpassad feedback
-** Att vara chef och ledare
-** Organisationsfeedback
-** Konsultledda dialoger - en snabbstart till en god relation
-** Att införa en feedbackkultur
-** Sammanfattning - Feedback
+** 2016-01-14: Att vara chef och ledare
+** 2016-01-14: Organisationsfeedback
+** 2016-01-14: Konsultledda dialoger - en snabbstart till en god relation
+** 2016-01-14: Att införa en feedbackkultur
+** 2016-01-14: Sammanfattning - Feedback
 * Nya coaching för bättre resultat
 John Whitmore
 http://www.nok.se/Akademisk/Titlar/Ledarskap-organisation/Ledarskap-organisation/Nya-Coaching-for-battre-resultat/
