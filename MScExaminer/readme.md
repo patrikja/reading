@@ -6,7 +6,16 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
-## Andreas Arvidsson/Robin Touche
+## Niklas Logren / Victor Lindhé
+
+* Prel. title: Improving proving
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* 2016-01-29: Planning report
+* 2016-01-15: Start
+
+## Andreas Arvidsson / Robin Touche
 
 * Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) for Haskell
 * Supervisor: Moa Johansson
