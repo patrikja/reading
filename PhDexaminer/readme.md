@@ -8,13 +8,12 @@ This is just a reading log of theses by PhD students I'm the examiner for.
 
 ### Licentiate thesis
 
-* Title:
-* URL:
+* Title: Theory Exploration and Inductive Theorem Proving
 * Examiner: Patrik Jansson
 * Supervisor: Koen Claessen
 * Co-supervisors: Moa Johansson, Jean-Philippe Bernardy
 * Reading the draft before printing:
-    * 2016-01-??: Lic. thesis draft reading (planned)
+    * 2016-01-23: Lic. thesis draft reading (introduction, 16 pages, version 2.4)
 * Lic. seminar: 2016-??-??
 
 
