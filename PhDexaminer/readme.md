@@ -4,6 +4,10 @@ This is just a reading log of theses by PhD students I'm the examiner for.
 
 # Ongoing PhD studies
 
+## Markus Aronsson
+
+Started 2014.
+
 ## Dan Rosén
 
 ### Licentiate thesis
@@ -31,3 +35,14 @@ This is just a reading log of theses by PhD students I'm the examiner for.
     * 2015-12-05: ... up to page 52.
     * 2015-12-06: all the way (page 111).
 * Lic. seminar: [Pass] 2016-01-12 at 10:00 in the lecture hall EA of the EDIT-building, Chalmers
+
+## Ramona Enache
+
+### PhD thesis
+
+* Title: Frontiers of Multilingual Grammar Development
+* Examiner: Patrik Jansson
+* Supervisor: Aarne Ranta
+* Reading the last draft before printing:
+    * 2013-09-12: Read the 29 intro page + skimmed the rest (papers). 182 pages in total.
+* PhD defence: [Pass] 2013-10-29
