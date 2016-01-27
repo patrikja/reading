@@ -6,6 +6,15 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
+## Sebastian Ivarsson
+
+* Prel. title: Heuristics for “good examples” of randomly generated tests in QuickCheck
+* Supervisor: John Hughes
+* Examiner: Patrik Jansson
+
+* 2016-02-03: Planning report due
+* 2016-01-24: Start
+
 ## Niklas Logren / Victor Lindhé
 
 * Prel. title: Improving proving
@@ -21,6 +30,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
+* 2016-01-20: Half-time presentation (report?)
 * 2015-11-13: Planning report: Pass.
 * 2015-10-25: Start
 
