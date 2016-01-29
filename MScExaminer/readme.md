@@ -6,6 +6,32 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
+## Emil Edholm & David Göransson
+
+* Prel. title: Fuzzing: The Future or Just a Fuss?
+* Supervisor: Alejandro Russo
+* Examiner: Patrik Jansson
+
+* 2016-01-??: start
+
+
+## Chongyun Yao
+
+* Prel. title: Mutation algorithms for security in cars
+* Supervisor at Chalmers: Tomas Olovsson
+* Examiner: Patrik Jansson
+
+* 2016-01-??: start
+
+## David Grankvist
+
+* Prel. title: Searching for Search Strategies
+* Supervisor: Peter Damaschke
+* Examiner: Patrik Jansson
+
+* 2016-02-08: Planning report due
+* 2016-01-28: Start
+
 ## Sebastian Ivarsson
 
 * Prel. title: Heuristics for “good examples” of randomly generated tests in QuickCheck
@@ -21,16 +47,17 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-01-29: Planning report
+* 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
 ## Andreas Arvidsson / Robin Touche
 
-* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) for Haskell
+* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-01-20: Half-time presentation (report?)
+* 2016-01-28: Half-time report: Pass
+* 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
 * 2015-10-25: Start
 
