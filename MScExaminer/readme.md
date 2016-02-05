@@ -6,6 +6,18 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
+## Emanuel Snellman
+
+## Ragnar Sigurdsson
+
+## Chongyun Yao
+
+* Prel. title: Mutation algorithms for security in cars
+* Supervisor: TBD
+* Examiner: Patrik Jansson
+
+* 2016-01-??: start
+
 ## Emil Edholm & David Göransson
 
 * Prel. title: Fuzzing: The Future or Just a Fuss?
@@ -14,14 +26,14 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * 2016-01-??: start
 
+## Jeremy Pope
 
-## Chongyun Yao
-
-* Prel. title: Mutation algorithms for security in cars
-* Supervisor at Chalmers: Tomas Olovsson
+* Prel. title: Constructive Quantifier Elimination in Agda
+* Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
-* 2016-01-??: start
+* 2016-02-14: Planning report due
+* 2016-02-04: Start
 
 ## David Grankvist
 
@@ -67,6 +79,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Camilieri and Gerardo Schneider
 * Examiner: Patrik Jansson
 
+* 2016-02-25: Half-rime report (prel.)
 * 2015-11-13: Planning report: Pass
 * 2015-10-25: Start
 

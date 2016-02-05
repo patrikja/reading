@@ -18,8 +18,7 @@ Started 2014.
 * Co-supervisors: Moa Johansson, Jean-Philippe Bernardy
 * Reading the draft before printing:
     * 2016-01-23: Lic. thesis draft reading (introduction, 16 pages, version 2.4)
-* Lic. seminar: 2016-??-??
-
+* Lic. seminar: prel. 2016-03-08
 
 ## Anton Ekblad
 
