@@ -15,7 +15,7 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 ** [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
    James Church
 
-Interesting and useful, but with many typos. (The typos encourages you
+Interesting and useful, but with many typos. (The typos encourage you
 to work with the text to get the code running which is good for
 learning;-)
 
@@ -29,3 +29,87 @@ learning;-)
 *** 2015-10-22: Ch 7: pages 115-136. Done.
 *** 2015-10-29: Ch 8: pages 137-159. Done.
 *** 2015-10-31: App.: pages 160-167. Done.
+** CoeGSS D4.1 - First Report on Pilot Requirements
+Version 2 (2016-01-26)
++ Editor: Sarah Wolf
++ Authors: D. Paolotti, M. Tizzoni (ISI), M. Edwards (CoSMo), S. Fürst, A. Geiges, A. Ireland, F. Schütze, G. Steudle (GCF),
++ Internal reviewers: Miroslaw Kupczyk (PSNC), Cezar Ionescu (Chalmers), Jochen Buchholz (USTUTT).
+
+Read 2016-02-13.
+
+*** 1 Introduction
+**** 1.1 The CoeGSS pilots
+**** 1.2 Synthetic information systems
+**** 1.3 About this document
+*** 2 Common requirements of all pilots
+**** 2.1 Interaction between HPC and GSS experts
+**** 2.2 Training
+**** 2.3 Access and computing time
+**** 2.4 Building a CoeGSS synthetic information system
+
+[...] It is a stated aim of CoeGSS to enhance and extend the
+capabilities of existing frameworks in the following directions:
+1. increase the scale to global populations (billions of agents)
+2. develop new methods for deriving relationships and activity patterns for agents
+3. incorporate new data from social media sources in a running simulation
+4. visualise the results of simulations and be able to interact with them in real time
+5. test, verify, and validate the results
+
+• Defining the system
+• Collecting data
+• Building a shared pool of data
+• Pre-processing data
+• Ensuring and tracking data quality
+• Generation of synthetic populations
+• Agent-based modelling
+• Prototyping
+• Performing sensitivity analysis and calibrating models
+• Installing code
+• Optimizing code
+• Running simulations
+• Analysing output
+• Visualising output and results
+• Creating a user-friendly interface for non-experts
+
++ A remark about the use of existing software tools: licensing.
+
+*** 3 Task 4.1: Health Habits
+
+**** 3.1 Short problem description
+**** 3.2 Initial example 1: smoking
+**** 3.3 Initial example 2: obesity
+**** 3.4 Initial synthetic population and workflow
+**** 3.5 Data requirements
+**** 3.6 Software requirements
+**** 3.7 Gathering experience
+In particular, goals of the initial test should be:
+• to identify and resolve the intellectual property issues arising
+• to define HPC software requirements for the SI system;
+• to identify any code compatibility issue between the systems;
+• to identify the best options for parallelization of the GLEAMviz server unit;
+• to assess the gain of performance to be expected by running the SI system on a HPC.
+
+*** 4 Task 4.2: Green Growth
+**** 4.1 Short problem description
+**** 4.2 Initial example: transport
+**** 4.3 Initial synthetic population
+**** 4.4 Preliminary, or training model
+**** 4.5 Data requirements
+**** 4.6 Software requirements
+**** 4.7 Visualisation requirements
+
+*** 5 Task 4.3 Global Urbanization
+**** 5.1 Short problem description
+**** 5.2 Workflow quick overview
+**** 5.3 City pilot and synthetic populations’ details
+***** 5.3.1 Transportation model
+***** 5.3.2 Pollution model
+***** 5.3.3 Real estate model
+***** 5.3.4 Population model
+***** 5.3.5 Economic model
+***** 5.3.6 Synthetic population refinements
+**** 5.4 Data requirements
+**** 5.5 Software requirements
+*** 6 Task 4.4 (Future Applications)
+*** 7 Conclusion
+*** 8 References
