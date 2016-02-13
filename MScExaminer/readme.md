@@ -6,19 +6,31 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
-## Emanuel Snellman
+## David Grankvist (1717326)
 
-## Ragnar Sigurdsson
-
-## Chongyun Yao
-
-* Prel. title: Mutation algorithms for security in cars
-* Supervisor: TBD
+* Prel. title: Searching for Search Strategies
+* Supervisor: Peter Damaschke
 * Examiner: Patrik Jansson
 
-* 2016-01-??: start
+* 2016-02-??: Planning report due
+* 2016-01-??: Start
 
-## Emil Edholm & David Göransson
+## Chongyun Yao (1715894)
+
+* Prel. title: Mutation algorithms for security in cars
+* Supervisor: Carlo Furia
+* Examiner: Patrik Jansson
+
+* 2016-02-??: start
+
+## Ragnar Lárus Sigurðsson (1717398)
+
+* Supervisor: Atze van der Ploeg
+* Examiner: Patrik Jansson
+
+* 2016-02-??: Start
+
+## Emil Edholm & David Göransson (1711054)
 
 * Prel. title: Fuzzing: The Future or Just a Fuss?
 * Supervisor: Alejandro Russo
@@ -26,7 +38,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * 2016-01-??: start
 
-## Jeremy Pope
+## Jeremy Pope (1717407)
 
 * Prel. title: Constructive Quantifier Elimination in Agda
 * Supervisor: Thierry Coquand
@@ -35,22 +47,13 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-14: Planning report due
 * 2016-02-04: Start
 
-## David Grankvist
-
-* Prel. title: Searching for Search Strategies
-* Supervisor: Peter Damaschke
-* Examiner: Patrik Jansson
-
-* 2016-02-08: Planning report due
-* 2016-01-28: Start
-
-## Sebastian Ivarsson
+## Sebastian Ivarsson (1707677)
 
 * Prel. title: Heuristics for “good examples” of randomly generated tests in QuickCheck
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
-* 2016-02-03: Planning report due
+* 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
 
 ## Niklas Logren / Victor Lindhé
@@ -62,7 +65,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
-## Andreas Arvidsson / Robin Touche
+## Andreas Arvidsson / Robin Touche (1685921)
 
 * Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
 * Supervisor: Moa Johansson
@@ -73,7 +76,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2015-11-13: Planning report: Pass.
 * 2015-10-25: Start
 
-## Runa Gulliksson
+## Runa Gulliksson (1684604)
 
 * Prel. title: Automatic translation from SCL to Timed Automata
 * Supervisor: John Camilieri and Gerardo Schneider
@@ -83,19 +86,21 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2015-11-13: Planning report: Pass
 * 2015-10-25: Start
 
-## Aron Manucheri
+## Aron Manucheri (1663344)
 
 * Prel. Title: Implementing cooperative-driving scenarios in [CHAOS](https://github.com/olafland/chaos)
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
+* 2016-02-22: Final presentation
+* 2016-02-19: Almost-final report due
 * 2015-11-25: Half-time report: Pass
 * 2015-09-22: Planning report: Pass
 * 2015-08-31: Start
 
 # Done
 
-## Jesper Lungqvist
+## Jesper Lungqvist (1582993)
 
 * Title: [Franca IDL C Code Generator](https://github.com/Pelagicore/FrancaCCG)
     * Development and Evaluation of New Tools for Franca IDL
@@ -107,7 +112,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2015-08-20: Read final report draft. Final version due 2015-09-07 to MaSh.
 * 2015-08-20: [MSc thesis presentation](http://www.chalmers.se/sv/institutioner/cse/kalendarium/Sidor/jesperlundqvist.aspx) [Pass]
 
-## Irene Lobo Valbuena
+## Irene Lobo Valbuena (1582484)
 
 * Title: Automated discovery of conditional lemmas in Hipster
 * Supervisor: Moa Johansson
@@ -117,7 +122,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2015-06-29: Read final report draft
 * 2015-06-08: MSc thesis presentation [Pass]
 
-## Linus Färnstrand
+## Linus Färnstrand (1582688)
 
 * Title: [Parallelization in Rust with fork-join and friends: Creating the ForkJoin framework](http://studentarbeten.chalmers.se/publication/219016-parallelization-in-rust-with-fork-join-and-friends-creating-the-fork-join-framework)
 * Supervisor: Josef Svenningsson
