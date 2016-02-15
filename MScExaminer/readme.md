@@ -13,7 +13,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-02-??: Planning report due
-* 2016-01-??: Start
+* 2016-01-28: Examiner + supervisor assigned
 
 ## Chongyun Yao (1715894)
 
@@ -21,22 +21,27 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-02-??: start
+* 2016-02-25: planning report due
+* 2016-02-15: start
+* 2016-02-11: Examiner + supervisor assigned
 
 ## Ragnar Lárus Sigurðsson (1717398)
 
+* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
-* 2016-02-??: Start
+* 2016-02-09: Examiner + supervisor assigned
+* 2016-02-05: Proposal accepted
 
 ## Emil Edholm & David Göransson (1711054)
 
-* Prel. title: Fuzzing: The Future or Just a Fuss?
+* Prel. title: Fuzzing: The Future or Just a Fuzz? - An in-depth review of fuzzing and anti-fuzzing
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
 
-* 2016-01-??: start
+* 2016-02-15: Planning report: Pass
+* 2016-02-01: Examiner + supervisor assigned
 
 ## Jeremy Pope (1717407)
 
@@ -46,6 +51,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * 2016-02-14: Planning report due
 * 2016-02-04: Start
+* 2016-02-02: Examiner + supervisor assigned
 
 ## Sebastian Ivarsson (1707677)
 
@@ -55,6 +61,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
+* 2016-01-19: Examiner + supervisor assigned
 
 ## Niklas Logren / Victor Lindhé
 
@@ -74,6 +81,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
+* 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
 
 ## Runa Gulliksson (1684604)
@@ -84,6 +92,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * 2016-02-25: Half-rime report (prel.)
 * 2015-11-13: Planning report: Pass
+* 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
 
 ## Aron Manucheri (1663344)
@@ -96,6 +105,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-19: Almost-final report due
 * 2015-11-25: Half-time report: Pass
 * 2015-09-22: Planning report: Pass
+* 2015-09-08: Examiner + supervisor assigned
 * 2015-08-31: Start
 
 # Done
