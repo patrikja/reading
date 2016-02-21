@@ -21,7 +21,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-02-25: planning report due
+* 2016-02-25: Planning report due
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
 
@@ -31,6 +31,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
+* 2016-02-21: Planning report submitted
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
 
@@ -49,7 +50,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
-* 2016-02-14: Planning report due
+* 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
@@ -90,19 +91,19 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Camilieri and Gerardo Schneider
 * Examiner: Patrik Jansson
 
-* 2016-02-25: Half-rime report (prel.)
+* 2016-02-25: Half-time report meeting
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
 
 ## Aron Manucheri (1663344)
 
-* Prel. Title: Implementing cooperative-driving scenarios in [CHAOS](https://github.com/olafland/chaos)
+* Title: Implementing a Cooperative Driving Scenario using [CHAOS](https://github.com/olafland/chaos):  Evaluating Chaos in the Context of Inter-vehicle Communication
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
 * 2016-02-22: Final presentation
-* 2016-02-19: Almost-final report due
+* 2016-02-18: Almost-final report handed in
 * 2015-11-25: Half-time report: Pass
 * 2015-09-22: Planning report: Pass
 * 2015-09-08: Examiner + supervisor assigned
