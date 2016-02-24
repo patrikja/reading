@@ -11,8 +11,9 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Prel. title: Searching for Search Strategies
 * Supervisor: Peter Damaschke
 * Examiner: Patrik Jansson
+* Note: 60 hec thesis (one year instead of half a year)
 
-* 2016-02-??: Planning report due
+* 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
 ## Chongyun Yao (1715894)
@@ -93,6 +94,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-02-25: Half-time report meeting
+* 2016-02-24: Halt-time report read.
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
