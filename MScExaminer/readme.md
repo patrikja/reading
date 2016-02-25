@@ -89,12 +89,12 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Runa Gulliksson (1684604)
 
-* Prel. title: Automatic translation from SCL to Timed Automata
-* Supervisors: John Camilieri and Gerardo Schneider
+* Prel. title: Automatic translation from contract DSL to Timed Automata
+* Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-02-25: Half-time report meeting
-* 2016-02-24: Halt-time report read.
+* 2016-05-??: Final presentation
+* 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start

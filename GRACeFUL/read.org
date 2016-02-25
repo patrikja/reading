@@ -50,8 +50,14 @@ Hans de Bruijn and Paulien M. Herder
 2009
 IEEE
 http://dx.doi.org/10.1109/TSMCA.2009.2025452
-* GRACeFUL deliverables
+* GRACeFUL deliverables and reports
 ** DSL workpackage
 *** D4.1: [Formal Concept Maps Elements Descriptions (GRACeFUL D4.1)](https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1.pdf)
 Authors: Cezar Ionescu and Patrik Jansson
 Source code: https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1/
+** D2.2 CRUD Analysis Report
+2015-07-22: Read and commented the draft
+** D2.3 CRUD RATs Key Requirements
+2016-01-07: Read and commented the draft by Michiel Blind
+** Y1 technical report
+2016-02-24: Read and commented the draft by Tom Creemers.
