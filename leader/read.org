@@ -1,3 +1,23 @@
+* Groups, Teams and Groupwork Revisited
+A Theory, Methodology and Practice for the 21st Century
+Seán Gaffney, Ph.D.
+2013, Ravenwood Press
+** Foreword
+** Opening statement of intent
+** Explanatory reader notes
+** Who I am and what do
+** Introduction
+** Philosophical considerations
+** Field perspectives
+** Cross-cultural perspectives
+** Introductory guidelines and terminology
+** Social groups, work groups and teams
+** Social groups, work groups and teams: part 2
+** Another trio of groups in the room
+** A focus on the practice of groupwork
+** Applying this approach in an organisational setting
+
+
 * Besides the Hot Seat---Gestalt in Organizations: Perspectives and Applications
 Seán Gaffney, M.A.
 http://www.gpo.no/files/pdfs/13._Beyond_the_hot_seat_.pdf
@@ -8,8 +28,9 @@ manager's view of "Mr B is the problem" but gradually evolves into a
 more systemic change that improves the working environment in several
 ways. The chapter goes back and forth between the underlying theories
 and the case, with explanations, reflections and historical
-references.  The first few pages of historical are difficult to
-appreciate as an outsider to the field but can be skipped.
+references.  The first few pages of historical background are
+difficult to appreciate as an outsider to the field but can be
+skipped.
 
 * Professionell feedback - medvetna mötens magi
 http://stefangunnarsson.se/boken-professionell-feedbac.html
