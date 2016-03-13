@@ -16,11 +16,12 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Chongyun Yao (1715894)
 
-* Prel. title: Mutation algorithms for security in cars
+* Title: Fuzzing algorithms for security in vehicles
 * Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-03-03: Planning report submitted
+* 2016-04-01: Prel. mid-term report
+* 2016-03-03: Planning report submitted: Pass
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
 
@@ -31,6 +32,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
+* 2016-06-??: Prel. halt-time report
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
@@ -60,6 +62,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
+* 2016-04-??: Prel. mid-term report
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
@@ -70,6 +73,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
+* 2016-03-24: Prel. mid-term report
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
@@ -80,6 +84,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
+* 2016-04-01: Prel. mid-term report
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
@@ -89,6 +94,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
+* 2016-04-21: Prel. final presentation
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
