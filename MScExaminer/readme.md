@@ -34,7 +34,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
-* 2016-04-11: Prel. half-time report
+* 2016-04-26: Half-time report meeting
 * 2016-02-22: Planning report: Pass
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted

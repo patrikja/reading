@@ -29,6 +29,10 @@ learning;-)
 *** 2015-10-22: Ch 7: pages 115-136. Done.
 *** 2015-10-29: Ch 8: pages 137-159. Done.
 *** 2015-10-31: App.: pages 160-167. Done.
+** CoeGSS D3.2 version 0.9 + reviews
+Read 2016-03-17.
+** CoeGSS D3.1
+Read 2016-03-11.
 ** CoeGSS D4.1 - First Report on Pilot Requirements
 Version 2 (2016-01-26)
 + Editor: Sarah Wolf
