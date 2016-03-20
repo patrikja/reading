@@ -45,6 +45,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
 
+* 2016-03-2?: Half-time report
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 
