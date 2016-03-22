@@ -6,6 +6,14 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing
 
+## Linus Börjesson (1731034)
+
+* Title: Repreresentation of ring localisation in cubicaltt
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+
+*
+
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
@@ -45,7 +53,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
 
-* 2016-03-2?: Half-time report
+* 2016-03-31?: Half-time report
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 
