@@ -29,6 +29,8 @@ learning;-)
 *** 2015-10-22: Ch 7: pages 115-136. Done.
 *** 2015-10-29: Ch 8: pages 137-159. Done.
 *** 2015-10-31: App.: pages 160-167. Done.
+** CoeGSS D3.2 version 1.0
++ Read T3.6 (2016-03-22)
 ** CoeGSS D3.2 version 0.9 + reviews
 Read 2016-03-17.
 ** CoeGSS D3.1
@@ -78,7 +80,6 @@ capabilities of existing frameworks in the following directions:
 + A remark about the use of existing software tools: licensing.
 
 *** 3 Task 4.1: Health Habits
-
 **** 3.1 Short problem description
 **** 3.2 Initial example 1: smoking
 **** 3.3 Initial example 2: obesity

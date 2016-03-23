@@ -12,7 +12,20 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
-*
+* 2016-??-??: Half-time report:
+* 2016-03-??: Planning report:
+* 2016-02-??: Start
+
+## Joakim Öhman
+
+* Title: Decidability of conversion in dependent type theory in Agda
+* Supervisor: Andrea Vezzosi or Andreas Abel or both (confirmed)
+* Examiner: Patrik Jansson
+
+* 2016-??-??: Half-time report
+* 2016-04-??: Planning report
+* 2016-03-??: start
+* 2016-03-??: Examiner + supervisor assigned
 
 ## Chongyun Yao (1715894)
 
