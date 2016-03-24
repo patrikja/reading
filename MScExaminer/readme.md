@@ -66,7 +66,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
 
-* 2016-03-31?: Half-time report
+* 2016-03-31: Half-time report
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 
@@ -83,11 +83,12 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Sebastian Ivarsson (1707677)
 
-* Prel. title: Heuristics for “good examples” of randomly generated tests in QuickCheck
+* Title: Heuristics for generating good examples using QuickCheck
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
-* 2016-03-24: Prel. half-time report
+* 2016-06-02: Prel. final presentation
+* 2016-03-24: Half-time report: Pass
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
@@ -121,7 +122,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-05-??: Final presentation
+* 2016-05-23: Final presentation
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
