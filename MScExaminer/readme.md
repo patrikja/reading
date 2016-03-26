@@ -4,17 +4,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
-# Ongoing
-
-## Linus Börjesson (1731034)
-
-* Title: Repreresentation of ring localisation in cubicaltt
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-
-* 2016-??-??: Half-time report:
-* 2016-03-??: Planning report:
-* 2016-02-??: Start
+# Ongoing: planning stage
 
 ## Joakim Öhman
 
@@ -27,16 +17,18 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-03-??: start
 * 2016-03-??: Examiner + supervisor assigned
 
-## Chongyun Yao (1715894)
+## Linus Börjesson (1731034)
 
-* Title: Fuzzing algorithms for security in vehicles
-* Supervisor: Carlo Furia
+* Title: Representation of ring localisation in cubicaltt
+* Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
-* 2016-04-01: Prel. half-time report
-* 2016-03-03: Planning report submitted: Pass
-* 2016-02-15: start
-* 2016-02-11: Examiner + supervisor assigned
+* 2016-??-??: Final presentation
+* 2016-??-??: Half-time report:
+* 2016-04-03: Planning report:
+* 2016-03-??: Start
+
+# Ongoing: First half
 
 ## David Grankvist (1717326)
 
@@ -49,49 +41,29 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
-## Ragnar Lárus Sigurðsson (1717398)
-
-* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
-* Supervisor: Atze van der Ploeg
-* Examiner: Patrik Jansson
-
-* 2016-04-26: Half-time report meeting
-* 2016-02-22: Planning report: Pass
-* 2016-02-09: Examiner + supervisor assigned
-* 2016-02-05: Proposal accepted
-
-## Emil Edholm & David Göransson (1711054)
-
-* Prel. title: Fuzzing: The Future or Just a Fuzz? - An in-depth review of fuzzing and anti-fuzzing
-* Supervisor: Alejandro Russo
-* Examiner: Patrik Jansson
-
-* 2016-03-31: Half-time report
-* 2016-02-15: Planning report: Pass
-* 2016-02-01: Examiner + supervisor assigned
-
 ## Jeremy Pope (1717407)
 
 * Prel. title: Constructive Quantifier Elimination in Agda
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
+* 2016-06-??: Final presentation
 * 2016-04-??: Prel. half-time report
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
-## Sebastian Ivarsson (1707677)
+## Ragnar Lárus Sigurðsson (1717398)
 
-* Title: Heuristics for generating good examples using QuickCheck
-* Supervisor: John Hughes
+* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
+* Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
-* 2016-06-02: Prel. final presentation
-* 2016-03-24: Half-time report: Pass
-* 2016-02-03: Planning report: Pass
-* 2016-01-24: Start
-* 2016-01-19: Examiner + supervisor assigned
+* 2016-06-??: Final presentation
+* 2016-04-26: Half-time report meeting
+* 2016-02-22: Planning report: Pass
+* 2016-02-09: Examiner + supervisor assigned
+* 2016-02-05: Proposal accepted
 
 ## Niklas Logren / Victor Lindhé
 
@@ -99,22 +71,47 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-04-01: Prel. half-time report
+* 2016-06-??: Final presentation
+* 2016-04-01: Half-time report
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
-## Andreas Arvidsson / Robin Touche (1685921)
+## Chongyun Yao (1715894)
 
-* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
-* Supervisor: Moa Johansson
+* Title: Fuzzing algorithms for security in vehicles
+* Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-04-21: Prel. final presentation
-* 2016-01-28: Half-time report: Pass
-* 2016-01-20: Half-time presentation: Done.
-* 2015-11-13: Planning report: Pass.
-* 2015-11-04: Examiner + supervisor assigned
-* 2015-10-25: Start
+* 2016-06-??: Final presentation
+* 2016-04-01: Half-time report
+* 2016-03-03: Planning report submitted: Pass
+* 2016-02-15: start
+* 2016-02-11: Examiner + supervisor assigned
+
+## Emil Edholm & David Göransson (1711054)
+
+* Prel. title: Fuzzing: The Future or Just a Fuzz? - An in-depth review of fuzzing and anti-fuzzing
+* Supervisor: Alejandro Russo
+* Examiner: Patrik Jansson
+
+* 2016-06-??: Final presentation
+* 2016-03-31: Half-time report
+* 2016-02-15: Planning report: Pass
+* 2016-02-01: Examiner + supervisor assigned
+
+# Ongoing: Second half
+
+## Sebastian Ivarsson (1707677)
+
+* Title: Heuristics for generating good examples using QuickCheck
+* Supervisor: John Hughes
+* Examiner: Patrik Jansson
+
+* 2016-06-02: [Final presentation](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck)
+* 2016-03-24: Half-time report: Pass
+* 2016-02-03: Planning report: Pass
+* 2016-01-24: Start
+* 2016-01-19: Examiner + supervisor assigned
 
 ## Runa Gulliksson (1684604)
 
@@ -122,11 +119,26 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-05-23: Final presentation
+* 2016-05-23?: [Final presentation](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016)
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
+
+## Andreas Arvidsson / Robin Touche (1685921)
+
+* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* 2016-04-21?: [Prel. final presentation](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016)
+* 2016-01-28: Half-time report: Pass
+* 2016-01-20: Half-time presentation: Done.
+* 2015-11-13: Planning report: Pass.
+* 2015-11-04: Examiner + supervisor assigned
+* 2015-10-25: Start
+
+# Ongoing: Final stretch
 
 ## Aron Manucheri (1663344)
 
