@@ -1,21 +1,28 @@
+#+STARTUP: logdone
+
 * Groups, Teams and Groupwork Revisited
 A Theory, Methodology and Practice for the 21st Century
 Seán Gaffney, Ph.D.
 2013, Ravenwood Press
-** Foreword
-** Opening statement of intent
-** Explanatory reader notes
-** Who I am and what do
-** Introduction
-** Philosophical considerations
-** Field perspectives
-** Cross-cultural perspectives
-** Introductory guidelines and terminology
-** Social groups, work groups and teams
-** Social groups, work groups and teams: part 2
-** Another trio of groups in the room
-** A focus on the practice of groupwork
-** Applying this approach in an organisational setting
+** DONE Foreword
+   CLOSED: [2016-03-25 fre 22:36]
+** DONE Opening statement of intent
+   CLOSED: [2016-03-25 fre 22:36]
+** DONE Explanatory reader notes
+   CLOSED: [2016-03-25 fre 22:36]
+** DONE Who I am and what do
+   CLOSED: [2016-03-25 fre 22:36]
+** DONE Introduction
+   CLOSED: [2016-03-25 fre 22:36]
+** TODO Philosophical considerations
+** TODO Field perspectives
+** TODO Cross-cultural perspectives
+** TODO Introductory guidelines and terminology
+** TODO Social groups, work groups and teams
+** TODO Social groups, work groups and teams: part 2
+** TODO Another trio of groups in the room
+** TODO A focus on the practice of groupwork
+** TODO Applying this approach in an organisational setting
 * Besides the Hot Seat---Gestalt in Organizations: Perspectives and Applications
 Seán Gaffney, M.A.
 http://www.gpo.no/files/pdfs/13._Beyond_the_hot_seat_.pdf
