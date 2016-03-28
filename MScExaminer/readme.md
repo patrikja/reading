@@ -9,12 +9,12 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 ## Joakim Öhman
 
 * Title: Decidability of conversion in dependent type theory in Agda
-* Supervisor: Andrea Vezzosi or Andreas Abel or both (confirmed)
+* Supervisor: Andrea Vezzosi and Andreas Abel
 * Examiner: Patrik Jansson
 
 * 2016-??-??: Half-time report
 * 2016-04-??: Planning report
-* 2016-03-??: start
+* 2016-03-30: start
 * 2016-03-??: Examiner + supervisor assigned
 
 ## Linus Börjesson (1731034)
@@ -26,7 +26,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-??-??: Final presentation
 * 2016-??-??: Half-time report:
 * 2016-04-03: Planning report:
-* 2016-03-??: Start
+* 2016-03-24: Start
 
 # Ongoing: First half
 
@@ -147,7 +147,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
-* 2016-03-05: Read & commented parts of the next report version.
+* 2016-03-28: Read & commented most of the 3rd report version.
+* 2016-03-05: Read & commented parts of the 2nd report version.
 * 2016-02-22: Final presentation: Pass
 * 2016-02-18: Almost-final report handed in: read and commented first part
 * 2015-11-25: Half-time report: Pass
