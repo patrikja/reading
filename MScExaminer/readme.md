@@ -67,12 +67,12 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Niklas Logren / Victor Lindhé
 
-* Prel. title: Improving proving
+* Title: Proof output and machine learning for inductive theorem provers
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
 * 2016-06-??: Final presentation
-* 2016-04-01: Half-time report
+* 2016-04-01: Half-time report: Read
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
@@ -90,12 +90,13 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Emil Edholm & David Göransson (1711054)
 
-* Prel. title: Fuzzing: The Future or Just a Fuzz? - An in-depth review of fuzzing and anti-fuzzing
+* Title: Escaping the Fuzz - An analysis of Anti-Fuzzing mechanisms
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
+* Industry supervisor: Kasper Karlsson, Omegapoint AB
 
 * 2016-06-??: Final presentation
-* 2016-03-31: Half-time report
+* 2016-03-31: Half-time report: Read
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 

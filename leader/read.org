@@ -16,7 +16,8 @@ Seán Gaffney, Ph.D.
    CLOSED: [2016-03-25 fre 22:36]
 ** DONE Philosophical considerations
    CLOSED: [2016-03-28 mån 21:38]
-** TODO Field perspectives
+** DONE Field perspectives
+   CLOSED: [2016-03-30 ons 22:08]
 ** TODO Cross-cultural perspectives
 ** TODO Introductory guidelines and terminology
 ** TODO Social groups, work groups and teams
