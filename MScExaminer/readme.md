@@ -83,7 +83,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-06-??: Final presentation
-* 2016-04-01: Half-time report
+* 2016-04-11: Half-time report
 * 2016-03-03: Planning report submitted: Pass
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
@@ -95,8 +95,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
-* 2016-06-??: Final presentation
-* 2016-03-31: Half-time report: Read
+* 2016-06-02?: Final presentation
+* 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 
