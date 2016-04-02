@@ -60,7 +60,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-06-??: Final presentation
-* 2016-04-26: Half-time report meeting
+* 2016-05-03: Half-time (3/4-time;-) report meeting
 * 2016-02-22: Planning report: Pass
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
@@ -71,8 +71,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-06-??: Final presentation
-* 2016-04-01: Half-time report: Read
+* 2016-06-02?: Final presentation
+* 2016-04-01: Half-time report: Pass
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 

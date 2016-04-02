@@ -18,7 +18,8 @@ Seán Gaffney, Ph.D.
    CLOSED: [2016-03-28 mån 21:38]
 ** DONE Field perspectives
    CLOSED: [2016-03-30 ons 22:08]
-** TODO Cross-cultural perspectives
+** DONE Cross-cultural perspectives
+   CLOSED: [2016-04-01 fre 22:09]
 ** TODO Introductory guidelines and terminology
 ** TODO Social groups, work groups and teams
 ** TODO Social groups, work groups and teams: part 2
