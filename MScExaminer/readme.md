@@ -17,18 +17,18 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-03-30: start
 * 2016-03-29: Examiner + supervisor assigned
 
+# Ongoing: First half
+
 ## Linus Börjesson (1731034)
 
 * Title: Representation of ring localisation in cubicaltt
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 
-* 2016-??-??: Final presentation
-* 2016-??-??: Half-time report:
-* 2016-04-03: Planning report:
+* 2016-09-30?: Final presentation
+* 2016-06-03?: Half-time report:
+* 2016-04-03: Planning report: Pass
 * 2016-03-24: Start
-
-# Ongoing: First half
 
 ## David Grankvist (1717326)
 
@@ -65,17 +65,6 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
 
-## Niklas Logren / Victor Lindhé
-
-* Title: Proof output and machine learning for inductive theorem provers
-* Supervisor: Moa Johansson
-* Examiner: Patrik Jansson
-
-* 2016-06-02?: Final presentation
-* 2016-04-01: Half-time report: Pass
-* 2016-01-29: Planning report: Pass.
-* 2016-01-15: Start
-
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
@@ -88,6 +77,19 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
 
+# Ongoing: Second half
+
+## Niklas Logren / Victor Lindhé
+
+* Title: Proof output and machine learning for inductive theorem provers
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* 2016-06-02?: Final presentation
+* 2016-04-01: Half-time report: Pass
+* 2016-01-29: Planning report: Pass.
+* 2016-01-15: Start
+
 ## Emil Edholm & David Göransson (1711054)
 
 * Title: Escaping the Fuzz - An analysis of Anti-Fuzzing mechanisms
@@ -95,12 +97,10 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
-* 2016-06-02?: Final presentation
+* 2016-06-02: [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016)
 * 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
-
-# Ongoing: Second half
 
 ## Sebastian Ivarsson (1707677)
 
