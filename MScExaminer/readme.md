@@ -85,7 +85,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-06-02?: Final presentation
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): Final presentation (at 9.00 in the EDIT-room)
 * 2016-04-01: Half-time report: Pass
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
@@ -97,7 +97,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
-* 2016-06-02: [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): Final presentation (at 14.00 in the EDIT-room)
 * 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
@@ -108,7 +108,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
-* 2016-06-02: [Final presentation](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck) (at 13.00 in the EDIT-room)
 * 2016-03-24: Half-time report: Pass
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
