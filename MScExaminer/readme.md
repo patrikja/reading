@@ -26,7 +26,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-09-30?: Final presentation
-* 2016-06-03?: Half-time report:
+* 2016-06-03: Half-time report
 * 2016-04-03: Planning report: Pass
 * 2016-03-24: Start
 
@@ -132,7 +132,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-04-21?: [Prel. final presentation](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016)
+* 2016-04-21: [Final presentation](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016): EDIT-room 15.00
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
