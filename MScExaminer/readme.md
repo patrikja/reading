@@ -6,18 +6,21 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing: planning stage
 
+(none)
+
+# Ongoing: First half
+
 ## Joakim Öhman (1737099)
 
 * Title: Decidability of conversion in dependent type theory in Agda
 * Supervisor: Andrea Vezzosi and Andreas Abel
 * Examiner: Patrik Jansson
 
-* 2016-??-??: Half-time report
+* 2016-09-??: Final presentation
+* 2016-06-10?: Half-time report
 * 2016-04-08: Planning report
-* 2016-03-30: start
+* 2016-04-04: start
 * 2016-03-29: Examiner + supervisor assigned
-
-# Ongoing: First half
 
 ## Linus Börjesson (1731034)
 
@@ -48,7 +51,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-06-??: Final presentation
-* 2016-04-??: Prel. half-time report
+* 2016-04-21: Half-time report
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
@@ -85,7 +88,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): Final presentation (at 9.00 in the EDIT-room)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers)
 * 2016-04-01: Half-time report: Pass
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
@@ -97,7 +100,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): Final presentation (at 14.00 in the EDIT-room)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz)
 * 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
@@ -108,7 +111,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck) (at 13.00 in the EDIT-room)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck)
 * 2016-03-24: Half-time report: Pass
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
@@ -120,7 +123,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-05-23: [Final presentation](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016)
+* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): Final presentation
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
@@ -128,11 +131,11 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Andreas Arvidsson / Robin Touche (1685921)
 
-* Prel. title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
+* Title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* 2016-04-21: [Final presentation](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016): EDIT-room 15.00
+* [2016-04-21](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016): [Final presentation: EDIT-room 15.00](https://masterthesis.cms.chalmers.se/content/proving-type-class-laws-haskell-0)
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.

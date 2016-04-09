@@ -22,9 +22,12 @@ Seán Gaffney, Ph.D.
    CLOSED: [2016-04-01 fre 22:09]
 ** DONE Introductory guidelines and terminology
    CLOSED: [2016-04-03 sön 23:39]
-** TODO Social groups, work groups and teams
-** TODO Social groups, work groups and teams: part 2
-** TODO Another trio of groups in the room
+** DONE Social groups, work groups and teams
+   CLOSED: [2016-04-08 fre 16:48]
+** DONE Social groups, work groups and teams: part 2
+   CLOSED: [2016-04-08 fre 16:48]
+** DONE Another trio of groups in the room
+   CLOSED: [2016-04-08 fre 16:49]
 ** TODO A focus on the practice of groupwork
 ** TODO Applying this approach in an organisational setting
 * Besides the Hot Seat---Gestalt in Organizations: Perspectives and Applications
