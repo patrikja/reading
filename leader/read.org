@@ -28,8 +28,10 @@ Seán Gaffney, Ph.D.
    CLOSED: [2016-04-08 fre 16:48]
 ** DONE Another trio of groups in the room
    CLOSED: [2016-04-08 fre 16:49]
-** TODO A focus on the practice of groupwork
-** TODO Applying this approach in an organisational setting
+** DONE A focus on the practice of groupwork
+   CLOSED: [2016-04-10 sön 06:42]
+** DONE Applying this approach in an organisational setting
+   CLOSED: [2016-04-10 sön 06:42]
 * Besides the Hot Seat---Gestalt in Organizations: Perspectives and Applications
 Seán Gaffney, M.A.
 http://www.gpo.no/files/pdfs/13._Beyond_the_hot_seat_.pdf

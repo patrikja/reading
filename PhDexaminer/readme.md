@@ -1,6 +1,15 @@
 # PhD examination
 
-This is just a reading log of theses by PhD students I'm the examiner for.
+This is just a reading log of theses by PhD students for whom I'm
+either examiner or in the grading committee.
+
+# Grading committee
+
+## Guilhem Moulin
+
+* Title:
+* Reading draft
+    * 2016-04-10: Read up to page 37.
 
 # Ongoing PhD studies
 
