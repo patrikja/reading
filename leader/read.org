@@ -1,5 +1,12 @@
 #+STARTUP: logdone
 
+* "Utvecklingsvägen / Developmental Edge"
+
+2016-04-13: Read the text sent out from the leadership course
+
+Link to workshop offers (but not the text):
+*  http://www.egenart.info/gaffney/insida.php?pageid=utvecklvag
+
 * Groups, Teams and Groupwork Revisited
 A Theory, Methodology and Practice for the 21st Century
 Seán Gaffney, Ph.D.

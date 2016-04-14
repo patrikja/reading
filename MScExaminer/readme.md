@@ -74,8 +74,9 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-06-??: Final presentation
-* 2016-04-11: Half-time report
+* 2016-09-??: Final presentation
+* 2016-04-21: Half-time report
+* 2016-04-11: Half-time presentation: OK
 * 2016-03-03: Planning report submitted: Pass
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
@@ -135,7 +136,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* [2016-04-21](https://masterthesis.cms.chalmers.se/content/thursday-april-21-2016): [Final presentation: EDIT-room 15.00](https://masterthesis.cms.chalmers.se/content/proving-type-class-laws-haskell-0)
+* 2016-05-13: Final presentation: EDIT-room 10.00
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
