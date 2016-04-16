@@ -15,6 +15,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Title: Decidability of conversion in dependent type theory in Agda
 * Supervisor: Andrea Vezzosi and Andreas Abel
 * Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
 
 * 2016-09-??: Final presentation
 * 2016-06-10?: Half-time report
