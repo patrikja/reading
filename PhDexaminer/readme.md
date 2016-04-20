@@ -3,41 +3,46 @@
 This is just a reading log of theses by PhD students for whom I'm
 either examiner or in the grading committee.
 
-# Grading committee
-
-## Guilhem Moulin
-
-* Title:
-* Reading draft
-    * 2016-04-10: Read up to page 37.
-
 # Ongoing PhD studies
+
+## Joris van Rooij
+
+Started 2016-04-04.
+
+* Examiner: Patrik Jansson
+* Supervisor: Marina Papatriantafilou
+* Co-supervisor: Vincenzo Gulisano
 
 ## Markus Aronsson
 
 Started 2014.
 
+* Examiner: Patrik Jansson
+* Supervisor: Mary Sheeran
+
 ## Dan Rosén
+
+* Examiner: Patrik Jansson
+* Supervisor: Koen Claessen
+* Co-supervisors: Moa Johansson, Jean-Philippe Bernardy
 
 ### Licentiate thesis
 
 * Title: Theory Exploration and Inductive Theorem Proving
-* Examiner: Patrik Jansson
-* Supervisor: Koen Claessen
-* Co-supervisors: Moa Johansson, Jean-Philippe Bernardy
 * Reading the draft before printing:
     * 2016-01-23: Lic. thesis draft reading (introduction, 16 pages, version 2.4)
 * Lic. seminar: [Pass] 2016-03-08
 
 ## Anton Ekblad
 
+* Examiner: Patrik Jansson
+* Supervisor: Koen Claessen
+* Co-supervisor: Emil Axelsson
+
 ### Licentiate thesis
 
 * Title: A Distributed Haskell for the Modern Web
 * URL: http://ekblad.cc/lic.pdf
-* Examiner: Patrik Jansson
-* Supervisor: Koen Claessen
-* Co-supervisor: Emil Axelsson
 * Reading the last draft before printing:
     * 2015-12-03: Lic. thesis draft: read up to page 38.
     * 2015-12-05: ... up to page 52.
@@ -46,11 +51,20 @@ Started 2014.
 
 ## Ramona Enache
 
+* Examiner: Patrik Jansson
+* Supervisor: Aarne Ranta
+
 ### PhD thesis
 
 * Title: Frontiers of Multilingual Grammar Development
-* Examiner: Patrik Jansson
-* Supervisor: Aarne Ranta
 * Reading the last draft before printing:
     * 2013-09-12: Read the 29 intro page + skimmed the rest (papers). 182 pages in total.
 * PhD defence: [Pass] 2013-10-29
+
+# Grading committee
+
+## Guilhem Moulin
+
+* Title:
+* Reading draft
+    * 2016-04-10: Read up to page 37.

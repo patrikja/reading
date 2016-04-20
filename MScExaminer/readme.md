@@ -28,6 +28,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Title: Representation of ring localisation in cubicaltt
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/linusbo/disc-ctt
 
 * 2016-09-30?: Final presentation
 * 2016-06-03: Half-time report
@@ -50,6 +51,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Prel. title: Constructive Quantifier Elimination in Agda
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
+* Source code: https://github.com/guspopje/thesisproj
 
 * 2016-06-??: Final presentation
 * 2016-04-21: Half-time report
@@ -153,6 +155,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
+* 2016-04-20: Read & commented final version.
 * 2016-03-28: Read & commented most of the 3rd report version.
 * 2016-03-05: Read & commented parts of the 2nd report version.
 * 2016-02-22: Final presentation: Pass
