@@ -53,8 +53,8 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 * Source code: https://github.com/guspopje/thesisproj
 
-* 2016-06-??: Final presentation
-* 2016-04-21: Half-time report
+* 2016-06-22?: Final presentation
+* 2016-04-21: Half-time report meeting
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
@@ -148,6 +148,10 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 # Ongoing: Final stretch
 
+[Between final presentation and final grading.]
+
+# Done
+
 ## Aron Manucheri (1663344)
 
 * Title: Implementing a Cooperative Driving Scenario using [CHAOS](https://github.com/olafland/chaos)
@@ -155,6 +159,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
+* 2016-04-21: Final grading: Pass.
 * 2016-04-20: Read & commented final version.
 * 2016-03-28: Read & commented most of the 3rd report version.
 * 2016-03-05: Read & commented parts of the 2nd report version.
@@ -164,8 +169,6 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2015-09-22: Planning report: Pass
 * 2015-09-08: Examiner + supervisor assigned
 * 2015-08-31: Start
-
-# Done
 
 ## Jesper Lungqvist (1582993)
 
