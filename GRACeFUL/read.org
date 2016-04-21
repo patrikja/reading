@@ -61,3 +61,13 @@ Source code: https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1/
 2016-01-07: Read and commented the draft by Michiel Blind
 ** Y1 technical report
 2016-02-24: Read and commented the draft by Tom Creemers.
+* Functional FEEC
+
+** Algorithm 839: FIAT, A New Paradigm for Computing Finite Element Basis Functions
+ROBERT C. KIRBY
+The University of Chicago
+https://sites.baylor.edu/robert_kirby/files/2015/01/fiat-toms-2004-1xo44jy.pdf
+[[file:read.bib::journals/toms/Kirby04][Kirby 2004: Algorithm]]
+
+Early work on using higher-order functions and overloading to
+implement a library generating finite element basis functions.
