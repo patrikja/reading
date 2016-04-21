@@ -65,6 +65,14 @@ Started 2014.
 
 ## Guilhem Moulin
 
-* Title:
+* Title: Internalizing Parametricity
+* Supervisor: Peter Dybjer
+* Opponent: Tarmo Uustalu
+* Grading committee:
+    * Patrik Jansson
+    * Thorsten Altenkirch
+    * Rasmus Mögelberg
+* PhD Defence: 2016-05-30, Chalmers
 * Reading draft
+    * 2016-04-20: Read up to page 78.
     * 2016-04-10: Read up to page 37.
