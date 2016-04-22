@@ -71,3 +71,9 @@ https://sites.baylor.edu/robert_kirby/files/2015/01/fiat-toms-2004-1xo44jy.pdf
 
 Early work on using higher-order functions and overloading to
 implement a library generating finite element basis functions.
+** A Compiler for Variational Forms
+[[file:read.bib::journals/toms/KirbyL06][Kirby & Logg 2006]]
+
+A DSL for describing multilinear variational forms for the finite
+element method. A compiler (in Python) from the embedded DSL to C++
+code using DOLFIN (+ a few more backends).
