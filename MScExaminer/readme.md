@@ -46,19 +46,6 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
-## Jeremy Pope (1717407)
-
-* Prel. title: Constructive Quantifier Elimination in Agda
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://github.com/guspopje/thesisproj
-
-* 2016-06-22?: Final presentation
-* 2016-04-21: Half-time report meeting
-* 2016-02-15: Planning report: Pass
-* 2016-02-04: Start
-* 2016-02-02: Examiner + supervisor assigned
-
 ## Ragnar Lárus Sigurðsson (1717398)
 
 * Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
@@ -85,6 +72,20 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-11: Examiner + supervisor assigned
 
 # Ongoing: Second half
+
+## Jeremy Pope (1717407)
+
+* Title: Constructive Quantifier Elimination in Agda
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://github.com/guspopje/thesisproj
+
+* 2016-06-22?: Final presentation
+* 2016-04-22: Half-time report: Pass
+* 2016-04-21: Half-time report meeting
+* 2016-02-15: Planning report: Pass
+* 2016-02-04: Start
+* 2016-02-02: Examiner + supervisor assigned
 
 ## Niklas Logren / Victor Lindhé
 
