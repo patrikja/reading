@@ -65,7 +65,7 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * Examiner: Patrik Jansson
 
 * 2016-09-??: Final presentation
-* 2016-04-21: Half-time report
+* 2016-04-21?: Half-time report
 * 2016-04-11: Half-time presentation: OK
 * 2016-03-03: Planning report submitted: Pass
 * 2016-02-15: start
@@ -152,6 +152,13 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 [Between final presentation and final grading.]
 
 # Done
+
+(from 2015-06-01 onwards):
+
+* Aron Manucheri
+* Jesper Lungqvist
+* Irene Lobo Valbuena
+* Linus Färnstrand
 
 ## Aron Manucheri (1663344)
 

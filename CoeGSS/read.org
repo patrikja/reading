@@ -118,3 +118,7 @@ In particular, goals of the initial test should be:
 *** 6 Task 4.4 (Future Applications)
 *** 7 Conclusion
 *** 8 References
+** CoeGSS D5.1 – Definition of the CoeGSS Operation Environment
+
+Read 2016-04-25. An overview of the resources available at HLRS and
+PSNC for CoeGSS.
