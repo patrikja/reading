@@ -77,3 +77,13 @@ implement a library generating finite element basis functions.
 A DSL for describing multilinear variational forms for the finite
 element method. A compiler (in Python) from the embedded DSL to C++
 code using DOLFIN (+ a few more backends).
+** PyDEC: Software and Algorithms for Discretization of Exterior Calculus
+[[file:read.bib::DBLP:journals/corr/abs-1103-3076][Bell & Hirani 2011: PyDEC]]
+http://arxiv.org/abs/1103.3076
+
+2016-04-28: Finished reading. The paper describes the what the PyDEC
+library (or DSL) handles mathamatically and gives examples how how to
+use it at the top level. The paper also describes several
+representations of simplicial complexes and how different operators
+from the exterior calculus can be expressed as matrix operations.  No
+description of the underlying code is included.
