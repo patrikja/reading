@@ -46,18 +46,6 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
-## Ragnar Lárus Sigurðsson (1717398)
-
-* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
-* Supervisor: Atze van der Ploeg
-* Examiner: Patrik Jansson
-
-* 2016-06-??: Final presentation
-* 2016-05-03: Half-time (3/4-time;-) report meeting
-* 2016-02-22: Planning report: Pass
-* 2016-02-09: Examiner + supervisor assigned
-* 2016-02-05: Proposal accepted
-
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
@@ -72,6 +60,18 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-11: Examiner + supervisor assigned
 
 # Ongoing: Second half
+
+## Ragnar Lárus Sigurðsson (1717398)
+
+* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
+* Supervisor: Atze van der Ploeg
+* Examiner: Patrik Jansson
+
+* 2016-08-30?: Final presentation
+* 2016-05-03: Half-time report meeting: Pass
+* 2016-02-22: Planning report: Pass
+* 2016-02-09: Examiner + supervisor assigned
+* 2016-02-05: Proposal accepted
 
 ## Jeremy Pope (1717407)
 
