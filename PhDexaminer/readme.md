@@ -71,7 +71,7 @@ Started 2014.
 * Grading committee:
     * Patrik Jansson
     * Thorsten Altenkirch
-    * Rasmus Mögelberg
+    * Rasmus Ejlers Møgelberg
 * PhD Defence: 2016-05-30, Chalmers
 * Reading draft
     * 2016-04-20: Read up to page 78.
