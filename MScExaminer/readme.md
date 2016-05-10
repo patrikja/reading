@@ -87,17 +87,6 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
-## Niklas Logren / Victor Lindhé
-
-* Title: Proof output and machine learning for inductive theorem provers
-* Supervisor: Moa Johansson
-* Examiner: Patrik Jansson
-
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers)
-* 2016-04-01: Half-time report: Pass
-* 2016-01-29: Planning report: Pass.
-* 2016-01-15: Start
-
 ## Emil Edholm & David Göransson (1711054)
 
 * Title: Escaping the Fuzz - An analysis of Anti-Fuzzing mechanisms
@@ -122,13 +111,24 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
 
+## Niklas Logren / Victor Lindhé
+
+* Title: Proof output and machine learning for inductive theorem provers
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers)
+* 2016-04-01: Half-time report: Pass
+* 2016-01-29: Planning report: Pass.
+* 2016-01-15: Start
+
 ## Runa Gulliksson (1684604)
 
-* Prel. title: Automatic translation from contract DSL to Timed Automata
+* Title: Automatic Translation from contract DSL to Timed Automata
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): Final presentation
+* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata)
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
