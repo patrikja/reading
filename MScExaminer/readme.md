@@ -180,8 +180,8 @@ Overview of ongoing theses:
 
 ## Aron Manucheri (1663344)
 
-* Title: Implementing a Cooperative Driving Scenario using [CHAOS](https://github.com/olafland/chaos)
-    * Evaluating Chaos in the Context of Inter-vehicle Communication
+* Title: [Implementing a Cooperative Driving Scenario using CHAOS](http://studentarbeten.chalmers.se/publication/235325-implementing-a-cooperative-driving-scenario-using-chaos-evaluating-chaos-in-the-context-of-inter-veh)
+    * Evaluating [Chaos](https://github.com/olafland/chaos) in the Context of Inter-vehicle Communication
 * Supervisor: Olaf Landsiedel
 * Examiner: Patrik Jansson
 
@@ -198,10 +198,11 @@ Overview of ongoing theses:
 
 ## Jesper Lungqvist (1582993)
 
-* Title: [Franca IDL C Code Generator](https://github.com/Pelagicore/FrancaCCG)
+* Title: [Franca IDL C Code Generator](http://studentarbeten.chalmers.se/publication/225931-franca-idl-c-code-generator-development-and-evaluation-of-new-tools-for-franca-idl)
     * Development and Evaluation of New Tools for Franca IDL
 * Supervisor: Mary Sheeran
 * Examiner: Patrik Jansson
+* Source code: [Franca IDL C Code Generator](https://github.com/Pelagicore/FrancaCCG)
 * ​This thesis work was conducted at Pelagicore AB in Gothenburg.
 
 * 2015-10-08: Final report done.
@@ -210,7 +211,7 @@ Overview of ongoing theses:
 
 ## Irene Lobo Valbuena (1582484)
 
-* Title: Automated discovery of conditional lemmas in Hipster
+* Title: [Automated discovery of conditional lemmas in Hipster](http://studentarbeten.chalmers.se/publication/225866-automated-discovery-of-conditional-lemmas-in-hipster)
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
