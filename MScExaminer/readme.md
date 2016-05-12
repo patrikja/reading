@@ -4,6 +4,22 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
+Overview of ongoing theses:
+
+| Start   | Stage       | Student(s)                                    | Comment |
+| ------- | ----------- | --------------------------------------------- | ------- |
+| 2016-03 | First half  | Joakim Öhman (1737099)                        |
+| 2016-03 | First half  | Linus Börjesson (1731034)                     |
+| 2016-01 | First half  | David Grankvist (1717326)                     | 60-hec thesis
+| 2016-02 | Second half | Chongyun Yao (1715894)                        |
+| 2016-02 | Second half | Ragnar Lárus Sigurðsson (1717398)             |
+| 2016-02 | Second half | Jeremy Pope (1717407)                         |
+| 2016-02 | Second half | Emil Edholm & David Göransson (1711054)       |
+| 2016-01 | Second half | Sebastian Ivarsson (1707677)                  |
+| 2016-01 | Second half | Niklas Logren / Victor Lindhé                 |
+| 2015-10 | Second half | Runa Gulliksson (1684604)                     |
+| 2015-10 | Second half | Andreas Arvidsson / Robin Touche (1685921)    |
+
 # Ongoing: planning stage
 
 (none)
@@ -157,10 +173,10 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 (from 2015-06-01 onwards):
 
-* Aron Manucheri
-* Jesper Lungqvist
-* Irene Lobo Valbuena
-* Linus Färnstrand
+* 2016-04: Aron Manucheri
+* 2015-10: Jesper Lungqvist
+* 2015-10: Irene Lobo Valbuena
+* 2015-06: Linus Färnstrand
 
 ## Aron Manucheri (1663344)
 
