@@ -136,11 +136,13 @@ From 2015 I am one examiners of the MSc thesis course at the CSE department at C
 
 ## Andreas Arvidsson / Robin Touche (1685921)
 
-* Title: Proving [Type­Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
+* Title: Proving [Type-Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
+* Source code: [Tools](https://github.com/chip2n/tools), [Examples](https://github.com/chip2n/hipspec-typeclasses)
 
 * 2016-05-13: Final presentation: EDIT-room 10.00
+* 2015-05-12: Read draft report: very good
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
