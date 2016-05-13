@@ -8,7 +8,7 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-03 | First half    | [Joakim Öhman](#joakim-öhman-1737099)                                        |
+| 2016-03 | First half    | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2016-03 | First half    | [Linus Börjesson](#linus-börjesson-1731034)                                  |
 | 2016-01 | First half    | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
