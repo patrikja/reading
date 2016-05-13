@@ -18,7 +18,7 @@ Overview of ongoing theses:
 | 2016-01 | Second half | Sebastian Ivarsson (1707677)                  |
 | 2016-01 | Second half | Niklas Logren / Victor Lindhé                 |
 | 2015-10 | Second half | Runa Gulliksson (1684604)                     |
-| 2015-10 | Second half | Andreas Arvidsson / Robin Touche (1685921)    |
+| 2015-10 | Final stretch | [Andreas Arvidsson / Robin Touche (1685921)](#andreas-arvidsson--robin-touche-1685921)    |
 
 # Ongoing: planning stage
 
@@ -150,6 +150,10 @@ Overview of ongoing theses:
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## Andreas Arvidsson / Robin Touche (1685921)
 
 * Title: Proving [Type-Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
@@ -157,17 +161,13 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: [Tools](https://github.com/chip2n/tools), [Examples](https://github.com/chip2n/hipspec-typeclasses)
 
-* 2016-05-13: Final presentation: EDIT-room 10.00
+* 2016-05-13: Final presentation: EDIT-room 10.00: Pass
 * 2015-05-12: Read draft report: very good
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 # Done
 
