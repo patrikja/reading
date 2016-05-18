@@ -12,17 +12,17 @@ CoEGSS = Center of Excellence on Global Systems Science
 *** DONE 1.6 Finance
 *** DONE 1.7 Cities
 *** DONE 1.8 The internet
-*** TODO 1.9 The Tidworth Mums
-*** TODO 1.10 Climate Change
-*** TODO 1.11 An overview of Global Systems Science
-*** TODO 2.1 An overview of Week 2
-*** TODO 2.2 Prediction and the policy dilemma
-*** TODO 2.3 Unintended consequences
-*** TODO 2.4 Initial conditions and extreme events
-*** TODO 2.5 Prediction and policy
-*** TODO 2.6 Systems
-*** TODO 2.7 Negative and positive feedback
-*** TODO 2.8 Balancing feedback loops
+*** DONE 1.9 The Tidworth Mums
+*** DONE 1.10 Climate Change
+*** DONE 1.11 An overview of Global Systems Science
+*** DONE 2.1 An overview of Week 2
+*** DONE 2.2 Prediction and the policy dilemma
+*** DONE 2.3 Unintended consequences
+*** DONE 2.4 Initial conditions and extreme events
+*** DONE 2.5 Prediction and policy
+*** DONE 2.6 Systems
+*** DONE 2.7 Negative and positive feedback
+*** DONE 2.8 Balancing feedback loops
 *** TODO 2.9 System dynamics
 *** TODO 2.10 Multilevel systems
 *** TODO 2.11 Systemic problems and policy
@@ -42,6 +42,8 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** [Exascale computing and big data](http://cacm.acm.org/magazines/2015/7/188732-exascale-computing-and-big-data/fulltext)
+2016-05-17
 ** [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
    James Church
 
