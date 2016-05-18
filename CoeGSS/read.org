@@ -3,6 +3,15 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Large-Scale Computing Techniques for Complex System Simulations
+Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
+http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
+DubitzkyKurowskiSchott_2012_Large-scaleComputingTechniquesForComplexSystemSimulations.pdf
+Mainly Chapter 5.
+** Parsing JSON with Aeson
+https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+*** 2015-10-22: Read 80%.
+* Read
 ** GSS online course https://www.futurelearn.com/courses/global-systems-science/1/todo/3655
 *** DONE 1.1 An introduction to Global Systems Science
 *** DONE 1.2 Policy challenges in Global Systems Science
@@ -23,25 +32,15 @@ CoEGSS = Center of Excellence on Global Systems Science
 *** DONE 2.6 Systems
 *** DONE 2.7 Negative and positive feedback
 *** DONE 2.8 Balancing feedback loops
-*** TODO 2.9 System dynamics
-*** TODO 2.10 Multilevel systems
-*** TODO 2.11 Systemic problems and policy
-*** TODO 2.12 Policy design
-*** TODO 2.13 The science of complex systems
-*** TODO 2.14 Policy informatics
-*** TODO 2.15 Global Systems Science for policy
-*** TODO 2.16 Conclusion to the course
-
-
-** Large-Scale Computing Techniques for Complex System Simulations
-Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
-http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
-DubitzkyKurowskiSchott_2012_Large-scaleComputingTechniquesForComplexSystemSimulations.pdf
-Mainly Chapter 5.
-** Parsing JSON with Aeson
-https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
-*** 2015-10-22: Read 80%.
-* Read
+*** DONE 2.9 System dynamics
+*** DONE 2.10 Multilevel systems
+*** DONE 2.11 Systemic problems and policy
+*** DONE 2.12 Policy design
+*** DONE 2.13 The science of complex systems
+*** DONE 2.14 Policy informatics
+*** DONE 2.15 Global Systems Science for policy
+*** DONE 2.16 Conclusion to the course
+Finished 2016-05-18.
 ** [Exascale computing and big data](http://cacm.acm.org/magazines/2015/7/188732-exascale-computing-and-big-data/fulltext)
 2016-05-17
 ** [Learning Haskell Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
