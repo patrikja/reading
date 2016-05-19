@@ -12,6 +12,8 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** CoeGSS review material
+
 ** GSS online course https://www.futurelearn.com/courses/global-systems-science/1/todo/3655
 *** DONE 1.1 An introduction to Global Systems Science
 *** DONE 1.2 Policy challenges in Global Systems Science
