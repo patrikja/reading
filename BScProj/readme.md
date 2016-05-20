@@ -13,3 +13,13 @@
 * 2016-03-01: Halvtidsredovisning (muntlig)
 * 2016-02-21: Planeringsrapport godkänd
 * 2016-01-19: Kursstart
+
+## Lollipop - A general purpose, functional programming language with linear types
+
+Bachelor’s thesis in Software Engineering and Computer Science
+
+EDVARD HÜBINETTE
+JOHAN ANDERSSON
+JONATHAN JOHANSSON
+MARIE KLEVEDAL
+MIKAEL MALMQVIST
