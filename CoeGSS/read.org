@@ -13,6 +13,16 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 *** 2015-10-22: Read 80%.
 * Read
 ** CoeGSS review material
+01-Welcome-to-CoeGSS_Carlo-Jaeger.pptx
+02_The_CoeGSS_Service_Portfolio_Identified_Services_Michael_Gienger_HLRS.pptx
+03_Positioning_CoeGSS_in_the_Ecosystem_Daniel_Field_ATOS.pptx
+04_Portal Presentation_Javi_Nieto_ATOS.pptx
+05_Center_Activities_Marcin_Lawenda_PSNC.pptx
+06_WP4_SarahWolf_GCF.pptx
+07_Centre_Operation_WP5_Michael_Gienger_HLRS.pptx
+08_Achieving_Impact_Leonardo_Camiciott_TOP-IX.pptx
+09a_WP1_AdministrativeManagement_Carlo-Jaeger.pptx
+09b_Technical_Management_WP1_Michael_Gienger_HLRS.pptx
 
 ** GSS online course https://www.futurelearn.com/courses/global-systems-science/1/todo/3655
 *** DONE 1.1 An introduction to Global Systems Science
