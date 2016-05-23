@@ -1,3 +1,11 @@
+# GHC
+
+## Release notes for ghc 8.0.1
+
+https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/8.0.1-notes.html
+
+Read 2016-05-21.
+
 # [Haskell Symposium 2015](https://www.haskell.org/haskell-symposium/2015/index.html)
 
 2015-06-19: Finished reading and reviewing 8 of the papers submitted to the 2015 instance of the Haskell Symposium.

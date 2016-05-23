@@ -17,7 +17,7 @@ Overview of ongoing theses:
 | 2016-02 | Second half   | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
 | 2016-01 | Second half   | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
 | 2016-01 | Second half   | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
-| 2015-10 | Second half   | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
+| 2015-10 | Final stretch | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2015-10 | Final stretch | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
 
 # Ongoing: planning stage
@@ -96,7 +96,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: https://github.com/guspopje/thesisproj
 
-* 2016-06-22?: Final presentation
+* 2016-08-??: Final presentation
 * 2016-04-22: Half-time report: Pass
 * 2016-04-21: Half-time report meeting
 * 2016-02-15: Planning report: Pass
@@ -138,21 +138,21 @@ Overview of ongoing theses:
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## Runa Gulliksson (1684604)
 
 * Title: Automatic Translation from contract DSL to Timed Automata
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata)
+* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 ## Andreas Arvidsson / Robin Touche (1685921)
 
