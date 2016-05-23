@@ -148,6 +148,7 @@ Overview of ongoing theses:
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
+* 2016-05-23: Started reading the final report draft
 * [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
