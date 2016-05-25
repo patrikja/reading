@@ -148,7 +148,7 @@ Overview of ongoing theses:
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-05-23: Started reading the final report draft
+* 2016-05-25: Read the start of the final report draft -> revision needed.
 * [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
 * 2016-02-25: Half-time report + meeting: Pass
 * 2015-11-13: Planning report: Pass
@@ -162,8 +162,9 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: [Tools](https://github.com/chip2n/tools), [Examples](https://github.com/chip2n/hipspec-typeclasses)
 
+* 2016-05-25: Almost final report read - just details missing
 * 2016-05-13: Final presentation: EDIT-room 10.00: Pass
-* 2015-05-12: Read draft report: very good
+* 2015-05-12: Read draft report: very good (some comments -> revision needed)
 * 2016-01-28: Half-time report: Pass
 * 2016-01-20: Half-time presentation: Done.
 * 2015-11-13: Planning report: Pass.
