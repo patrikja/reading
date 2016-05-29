@@ -58,7 +58,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
-* 2016-06-??: Prel. half-time report
+* 2016-06-03: Half-time report
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 

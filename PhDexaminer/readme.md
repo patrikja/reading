@@ -74,5 +74,6 @@ Started 2014.
     * Rasmus Ejlers Møgelberg
 * PhD Defence: 2016-05-30, Chalmers
 * Reading draft
+    * 2016-05-29: Read until the end.
     * 2016-04-20: Read up to page 78.
     * 2016-04-10: Read up to page 37.
