@@ -103,21 +103,21 @@ Overview of ongoing theses:
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## Emil Edholm & David Göransson (1711054)
 
-* Title: Escaping the Fuzz - An analysis of Anti-Fuzzing mechanisms
+* Title: Escaping the Fuzz - Evaluating Fuzzing Techniques and Fooling them with Anti-Fuzzing
 * Supervisor: Alejandro Russo
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz): Pass
 * 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 ## Sebastian Ivarsson (1707677)
 
