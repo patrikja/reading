@@ -127,20 +127,20 @@ Overview of ongoing theses:
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## Niklas Logren / Victor Lindhé
 
 * Title: Proof output and machine learning for inductive theorem provers
 * Supervisor: Moa Johansson
 * Examiner: Patrik Jansson
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers): Pass
 * 2016-04-01: Half-time report: Pass
 * 2016-01-29: Planning report: Pass.
 * 2016-01-15: Start
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 ## Runa Gulliksson (1684604)
 
