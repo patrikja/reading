@@ -115,21 +115,21 @@ Overview of ongoing theses:
 * 2016-02-15: Planning report: Pass
 * 2016-02-01: Examiner + supervisor assigned
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## Sebastian Ivarsson (1707677)
 
 * Title: Heuristics for generating good examples using QuickCheck
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck)
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck): Pass
 * 2016-03-24: Half-time report: Pass
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 ## Niklas Logren / Victor Lindhé
 
