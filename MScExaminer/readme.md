@@ -1,4 +1,4 @@
-# MSc theses
+MSc theses
 
 From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU.
 
@@ -9,14 +9,14 @@ Overview of ongoing theses:
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
 | 2016-03 | First half    | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
-| 2016-03 | First half    | [Linus Börjesson](#linus-börjesson-1731034)                                  |
-| 2016-01 | First half    | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
+| 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
+| 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
-| 2016-02 | Second half   | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
-| 2016-01 | Second half   | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
-| 2016-01 | Second half   | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
+| 2016-02 | Final stretch | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
+| 2016-01 | Final stretch | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
+| 2016-01 | Final stretch | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
 | 2015-10 | Final stretch | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2015-10 | Final stretch | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
 
@@ -47,9 +47,12 @@ Overview of ongoing theses:
 * Source code: https://bitbucket.org/linusbo/disc-ctt
 
 * 2016-09-30?: Final presentation
-* 2016-06-03: Half-time report
+* 2016-06-10: Half-time report due
+* 2016-06-03: Half-time presentation: OK
 * 2016-04-03: Planning report: Pass
 * 2016-03-24: Start
+
+# Ongoing: Second half
 
 ## David Grankvist (1717326)
 
@@ -61,8 +64,6 @@ Overview of ongoing theses:
 * 2016-06-03: Half-time report
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
-
-# Ongoing: Second half
 
 ## Chongyun Yao (1715894)
 
