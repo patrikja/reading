@@ -1,6 +1,6 @@
-MSc theses
+# MSc theses
 
-From 2015 I am one examiners of the MSc thesis course at the CSE department at Chalmers and GU.
+From 2015 I am one of the examiners of the MSc thesis course at the CSE department at Chalmers and GU.
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
@@ -8,8 +8,8 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-03 | First half    | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
+| 2016-03 | Second half   | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
@@ -26,18 +26,7 @@ Overview of ongoing theses:
 
 # Ongoing: First half
 
-## Joakim Öhman (1737099)
-
-* Title: Decidability of conversion in dependent type theory in Agda
-* Supervisor: Andrea Vezzosi and Andreas Abel
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
-
-* 2016-09-??: Final presentation
-* 2016-06-10?: Half-time report
-* 2016-04-08: Planning report
-* 2016-04-04: start
-* 2016-03-29: Examiner + supervisor assigned
+# Ongoing: Second half
 
 ## Linus Börjesson (1731034)
 
@@ -47,12 +36,23 @@ Overview of ongoing theses:
 * Source code: https://bitbucket.org/linusbo/disc-ctt
 
 * 2016-09-30?: Final presentation
-* 2016-06-10: Half-time report due
+* 2016-06-12: Half-time report: Pass
 * 2016-06-03: Half-time presentation: OK
 * 2016-04-03: Planning report: Pass
 * 2016-03-24: Start
 
-# Ongoing: Second half
+## Joakim Öhman (1737099)
+
+* Title: Decidability of conversion in dependent type theory in Agda
+* Supervisor: Andrea Vezzosi and Andreas Abel
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
+
+* 2016-09-??: Final presentation
+* 2016-06-10: Half-time report: Pass
+* 2016-04-08: Planning report: Pass
+* 2016-04-04: start
+* 2016-03-29: Examiner + supervisor assigned
 
 ## David Grankvist (1717326)
 
@@ -61,7 +61,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
-* 2016-06-03: Half-time report
+* 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
