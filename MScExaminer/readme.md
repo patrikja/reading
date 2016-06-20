@@ -16,7 +16,6 @@ Overview of ongoing theses:
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
 | 2016-02 | Final stretch | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
 | 2016-01 | Final stretch | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
-| 2016-01 | Final stretch | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
 | 2015-10 | Final stretch | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2015-10 | Final stretch | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
 
@@ -25,6 +24,8 @@ Overview of ongoing theses:
 (none)
 
 # Ongoing: First half
+
+(none)
 
 # Ongoing: Second half
 
@@ -115,6 +116,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Industry supervisor: Kasper Karlsson, Omegapoint AB
 
+* 2016-06-18: Almost final report read - just details missing
 * [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz): Pass
 * 2016-03-31: Half-time report: Pass
 * 2016-02-15: Planning report: Pass
@@ -126,22 +128,12 @@ Overview of ongoing theses:
 * Supervisor: John Hughes
 * Examiner: Patrik Jansson
 
+* 2016-06-19: Almost final report read - just details missing
 * [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck): Pass
 * 2016-03-24: Half-time report: Pass
 * 2016-02-03: Planning report: Pass
 * 2016-01-24: Start
 * 2016-01-19: Examiner + supervisor assigned
-
-## Niklas Logren / Victor Lindhé
-
-* Title: Proof output and machine learning for inductive theorem provers
-* Supervisor: Moa Johansson
-* Examiner: Patrik Jansson
-
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers): Pass
-* 2016-04-01: Half-time report: Pass
-* 2016-01-29: Planning report: Pass.
-* 2016-01-15: Start
 
 ## Runa Gulliksson (1684604)
 
@@ -149,6 +141,7 @@ Overview of ongoing theses:
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
+* 2016-06-11: Almost final report read - just details missing
 * 2016-05-25: Read the start of the final report draft -> revision needed.
 * [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
 * 2016-02-25: Half-time report + meeting: Pass
@@ -176,10 +169,26 @@ Overview of ongoing theses:
 
 (from 2015-06-01 onwards):
 
-* 2016-04: Aron Manucheri
-* 2015-10: Jesper Lungqvist
-* 2015-10: Irene Lobo Valbuena
-* 2015-06: Linus Färnstrand
+| Start   | End           | Student(s)                                        | Comment |
+| ------- | ------------- | ------------------------------------------------- | ------- |
+| 2016-01 | 2016-06 | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
+| 2015-09 | 2016-04 | Aron Manucheri       |
+| 2015-02 | 2015-10 | Jesper Lungqvist     |
+| 2015-02 | 2015-10 | Irene Lobo Valbuena  |
+| 2015-02 | 2015-06 | Linus Färnstrand     |
+
+## Niklas Logren / Victor Lindhé
+
+* Title: Proof output and machine learning for inductive theorem provers
+* Supervisor: Moa Johansson
+* Examiner: Patrik Jansson
+
+* 2016-06-13: Final report: Pass
+* 2016-06-11: Almost final report read - just details missing
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 9.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/proof-output-and-machine-learning-inductive-theorem-provers): Pass
+* 2016-04-01: Half-time report: Pass
+* 2016-01-29: Planning report: Pass.
+* 2016-01-15: Start
 
 ## Aron Manucheri (1663344)
 
