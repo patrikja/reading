@@ -14,10 +14,7 @@ Overview of ongoing theses:
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
-| 2016-02 | Final stretch | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
-| 2016-01 | Final stretch | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
 | 2015-10 | Final stretch | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
-| 2015-10 | Final stretch | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
 
 # Ongoing: planning stage
 
@@ -109,32 +106,6 @@ Overview of ongoing theses:
 
 [Between final presentation and final grading.]
 
-## Emil Edholm & David Göransson (1711054)
-
-* Title: Escaping the Fuzz - Evaluating Fuzzing Techniques and Fooling them with Anti-Fuzzing
-* Supervisor: Alejandro Russo
-* Examiner: Patrik Jansson
-* Industry supervisor: Kasper Karlsson, Omegapoint AB
-
-* 2016-06-18: Almost final report read - just details missing
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz): Pass
-* 2016-03-31: Half-time report: Pass
-* 2016-02-15: Planning report: Pass
-* 2016-02-01: Examiner + supervisor assigned
-
-## Sebastian Ivarsson (1707677)
-
-* Title: Heuristics for generating good examples using QuickCheck
-* Supervisor: John Hughes
-* Examiner: Patrik Jansson
-
-* 2016-06-19: Almost final report read - just details missing
-* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck): Pass
-* 2016-03-24: Half-time report: Pass
-* 2016-02-03: Planning report: Pass
-* 2016-01-24: Start
-* 2016-01-19: Examiner + supervisor assigned
-
 ## Runa Gulliksson (1684604)
 
 * Title: Automatic Translation from contract DSL to Timed Automata
@@ -149,6 +120,49 @@ Overview of ongoing theses:
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
 
+# Done
+
+(from 2015-06-01 onwards):
+
+| Start   | End     | Student(s)                                        | Comment |
+| ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-02 | 2016-06 | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
+| 2016-01 | 2016-06 | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
+| 2015-10 | 2016-06 | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
+| 2016-01 | 2016-06 | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
+| 2015-09 | 2016-04 | [Aron Manucheri](#aron-manucheri-1663344)            |
+| 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
+| 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
+| 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Emil Edholm & David Göransson (1711054)
+
+* Title: Escaping the Fuzz - Evaluating Fuzzing Techniques and Fooling them with Anti-Fuzzing
+* Supervisor: Alejandro Russo
+* Examiner: Patrik Jansson
+* Industry supervisor: Kasper Karlsson, Omegapoint AB
+
+* 2016-06-22: Final grading: Pass
+* 2016-06-18: Almost final report read - just details missing
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 14.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/escaping-fuzz): Pass
+* 2016-03-31: Half-time report: Pass
+* 2016-02-15: Planning report: Pass
+* 2016-02-01: Examiner + supervisor assigned
+
+## Sebastian Ivarsson (1707677)
+
+* Title: Heuristics for generating good examples using QuickCheck
+* Supervisor: John Hughes
+* Examiner: Patrik Jansson
+
+* 2016-06-22: Final grading: Pass
+* 2016-06-19: Almost final report read - just details missing
+* [2016-06-02](https://masterthesis.cms.chalmers.se/content/thursday-june-2-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/heuristics-generating-good-examples-using-quickcheck): Pass
+* 2016-03-24: Half-time report: Pass
+* 2016-02-03: Planning report: Pass
+* 2016-01-24: Start
+* 2016-01-19: Examiner + supervisor assigned
+
 ## Andreas Arvidsson / Robin Touche (1685921)
 
 * Title: Proving [Type-Class Laws](http://wiki.portal.chalmers.se/cse/pmwiki.php/FP/ClassLaws) in Haskell
@@ -156,6 +170,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: [Tools](https://github.com/chip2n/tools), [Examples](https://github.com/chip2n/hipspec-typeclasses)
 
+* 2016-06-22: Final grading: Pass
 * 2016-05-25: Almost final report read - just details missing
 * 2016-05-13: Final presentation: EDIT-room 10.00: Pass
 * 2015-05-12: Read draft report: very good (some comments -> revision needed)
@@ -164,18 +179,6 @@ Overview of ongoing theses:
 * 2015-11-13: Planning report: Pass.
 * 2015-11-04: Examiner + supervisor assigned
 * 2015-10-25: Start
-
-# Done
-
-(from 2015-06-01 onwards):
-
-| Start   | End           | Student(s)                                        | Comment |
-| ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-01 | 2016-06 | [Niklas Logren / Victor Lindhé](#niklas-logren--victor-lindhé)               |
-| 2015-09 | 2016-04 | Aron Manucheri       |
-| 2015-02 | 2015-10 | Jesper Lungqvist     |
-| 2015-02 | 2015-10 | Irene Lobo Valbuena  |
-| 2015-02 | 2015-06 | Linus Färnstrand     |
 
 ## Niklas Logren / Victor Lindhé
 
