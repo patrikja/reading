@@ -62,7 +62,9 @@ Source code: https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1/
 ** Y1 technical report
 2016-02-24: Read and commented the draft by Tom Creemers.
 * Functional FEEC
-
+** Differential forms and integration
+Terence Tao
+Read 2016-08-09.
 ** Algorithm 839: FIAT, A New Paradigm for Computing Finite Element Basis Functions
 ROBERT C. KIRBY
 The University of Chicago
