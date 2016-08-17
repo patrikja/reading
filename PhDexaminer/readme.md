@@ -1,7 +1,7 @@
 # PhD examination
 
 This is just a reading log of theses by PhD students for whom I'm
-either examiner or in the grading committee.
+either supervisor, examiner or in the grading committee.
 
 # Ongoing PhD studies
 
@@ -60,6 +60,12 @@ Started 2014.
 * Reading the last draft before printing:
     * 2013-09-12: Read the 29 intro page + skimmed the rest (papers). 182 pages in total.
 * PhD defence: [Pass] 2013-10-29
+
+## Jonas Duregård
+
+* Title: Automating Black-Box Property Based Testing
+* Reading the last draft before printing
+* PhD defense: 2016-09-16
 
 # Grading committee
 
