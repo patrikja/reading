@@ -12,6 +12,12 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** Sequential Decision Problems, Dependent Types and Generic Solutions
+Botta, Jansson, Ionescu, Christiansen, Brady
+http://www.cse.chalmers.se/~patrikj/papers/SeqDecProbDepType_LMCS_2016_preprint.pdf
+https://github.com/nicolabotta/SeqDecProbs/blob/master/README.md
+
+
 ** CoeGSS review material
 01-Welcome-to-CoeGSS_Carlo-Jaeger.pptx
 02_The_CoeGSS_Service_Portfolio_Identified_Services_Michael_Gienger_HLRS.pptx
