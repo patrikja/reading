@@ -12,11 +12,16 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** Contributions to a computational theory of policy advice and avoidability
+https://www.pik-potsdam.de/members/botta/publications-botta-16-jfp-original.pdf
+
+2016-08-23: Read until page 20.
+
 ** Sequential Decision Problems, Dependent Types and Generic Solutions
 Botta, Jansson, Ionescu, Christiansen, Brady
 http://www.cse.chalmers.se/~patrikj/papers/SeqDecProbDepType_LMCS_2016_preprint.pdf
 https://github.com/nicolabotta/SeqDecProbs/blob/master/README.md
-
+Read 2016-08-21. Fixed typos.
 
 ** CoeGSS review material
 01-Welcome-to-CoeGSS_Carlo-Jaeger.pptx
