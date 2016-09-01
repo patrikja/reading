@@ -1,4 +1,14 @@
 To read:
+* “Keep definition, change category” — A practical approach to state-based system calculi
+José Nuno Oliveiraa, Victor Cacciari Miraldob
+http://www.sciencedirect.com/science/article/pii/S2352220815001443
+file:/home/patrikj/Dropbox/To_read/Oliveira_KeepDef_ChangeCat_1-s2.0-S2352220815001443-main.pdf
+
+* "Typing linear algebra: A biproduct-oriented approach"
+Hugo Daniel Macedo (INRIA Paris-Rocquencourt), José N. Oliveira (HASLab)
+http://arxiv.org/abs/1312.4818
+file:/home/patrikj/Dropbox/To_read/Oliveira_TypingAlgebra_1-s2.0-S0167642312001402-main.pdf
+
 * TFPIE 2014 by Scott N. Walck
 https://wiki.science.ru.nl/tfpie/images/2/25/LearnPhysics.pdf
 https://wiki.science.ru.nl/tfpie/images/4/4a/Tfpie2014_submission_6.pdf

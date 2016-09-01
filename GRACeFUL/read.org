@@ -1,6 +1,19 @@
 #
 \bibliography{read.bib}
 
+* Global Systems Science
+Emerging Architectures for Global System Science
+  Michela Milano(1), Pascal Van Hentenryck(2)
+  (1) DISI, University of Bologna - Italy
+  (2) NICTA and the Australian National University, Australia (pvh@nicta.com.au)
+  Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence
+
+Read 2016-08-31.
+
+Short paper (4.5pages) describing some ways to model certain
+combinations of optimisation and constraints relevant for the GSS
+area. Cites the GSS report from 2013. (Jaeger et al.)
+
 * Functional logic programming
 ** Functional logic programming \cite{Antoy:2010:FLP:1721654.1721675}
 http://cacm.acm.org/magazines/2010/4/81495-functional-logic-programming/fulltext
