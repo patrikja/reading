@@ -12,6 +12,13 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** Apache Spark Overview
+
+Short note by Ingo Brauckhoff (ATOS). Nice to note that is Spark is a
+domain specific language based on functional programming technology.
+A bit more worrying (form the HPC point of view) that it is based on
+the Java Virtual Machine.
+
 ** Contributions to a computational theory of policy advice and avoidability
 https://www.pik-potsdam.de/members/botta/publications-botta-16-jfp-original.pdf
 

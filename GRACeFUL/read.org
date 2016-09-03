@@ -2,6 +2,7 @@
 \bibliography{read.bib}
 
 * Global Systems Science
+\cite{milano2015emerging}
 Emerging Architectures for Global System Science
   Michela Milano(1), Pascal Van Hentenryck(2)
   (1) DISI, University of Bologna - Italy
