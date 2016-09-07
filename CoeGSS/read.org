@@ -14,10 +14,10 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 * Read
 ** Apache Spark Overview
 
-Short note by Ingo Brauckhoff (ATOS). Nice to note that is Spark is a
+Short note by Ingo Brauckhoff (ATOS). Nice to note that Spark is a
 domain specific language based on functional programming technology.
 A bit more worrying (form the HPC point of view) that it is based on
-the Java Virtual Machine.
+the Java Virtual Machine which may cause trouble.
 
 ** Contributions to a computational theory of policy advice and avoidability
 https://www.pik-potsdam.de/members/botta/publications-botta-16-jfp-original.pdf

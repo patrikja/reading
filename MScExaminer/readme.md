@@ -8,6 +8,7 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
+| 2016-09 | Planning      | [Joel Magnus Syverud](#joel-magnus-syverud) |
 | 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
 | 2016-03 | Second half   | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
@@ -18,7 +19,12 @@ Overview of ongoing theses:
 
 # Ongoing: planning stage
 
-(none)
+## Linus Börjesson ()
+* Title: Type-based API search for Agda
+* Supervisor: Andreas Abel
+* Examiner: Patrik Jansson
+
+* 2016-09-08(?): Start
 
 # Ongoing: First half
 
