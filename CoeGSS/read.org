@@ -12,6 +12,10 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** Python tutorial
+https://docs.python.org/2.7/tutorial/
+2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
+TODO: continue from [[https://docs.python.org/2.7/tutorial/controlflow.html][4]]
 ** Apache Spark Overview
 
 Short note by Ingo Brauckhoff (ATOS). Nice to note that Spark is a
