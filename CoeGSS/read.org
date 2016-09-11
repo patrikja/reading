@@ -15,7 +15,10 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 ** Python tutorial
 https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
-TODO: continue from [[https://docs.python.org/2.7/tutorial/controlflow.html][4]]
+2016-09-11: [[https://docs.python.org/2.7/tutorial/controlflow.html][4]], [[https://docs.python.org/2.7/tutorial/datastructures.html][5]]
+
+TODO: continue from [[https://docs.python.org/2.7/tutorial/modules.html][6]]
+
 ** Apache Spark Overview
 
 Short note by Ingo Brauckhoff (ATOS). Nice to note that Spark is a
