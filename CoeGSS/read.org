@@ -16,8 +16,10 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
 2016-09-11: [[https://docs.python.org/2.7/tutorial/controlflow.html][4]], [[https://docs.python.org/2.7/tutorial/datastructures.html][5]]
+2016-09-12: [[https://docs.python.org/2.7/tutorial/modules.html][6]], [[https://docs.python.org/2.7/tutorial/inputoutput.html][7]]
 
-TODO: continue from [[https://docs.python.org/2.7/tutorial/modules.html][6]]
+TODO: continue from [[https://docs.python.org/2.7/tutorial/errors.html][8]]
+
 
 ** Apache Spark Overview
 
@@ -190,3 +192,5 @@ In particular, goals of the initial test should be:
 
 Read 2016-04-25. An overview of the resources available at HLRS and
 PSNC for CoeGSS.
+** CoeGSS D4.4 (version 2016-09-11)
+2016-09-12: Started reading (up to page 20)

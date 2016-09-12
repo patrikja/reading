@@ -103,3 +103,5 @@ use it at the top level. The paper also describes several
 representations of simplicial complexes and how different operators
 from the exterior calculus can be expressed as matrix operations.  No
 description of the underlying code is included.
+* Student Research Assistant Applications
+2016-09-12: Read through six candidates' (CV + personal letter).
