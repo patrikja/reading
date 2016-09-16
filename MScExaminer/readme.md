@@ -1,6 +1,6 @@
 # MSc theses
 
-From 2015 I am one of the examiners of the MSc thesis course at the CSE department at Chalmers and GU.
+During 2015 and 2016 I am one of the examiners of the MSc thesis course at the CSE department at Chalmers and GU.
 
 * [Some documents related to my role as examiner](https://github.com/patrikja/MScThesisExaminer)
 
@@ -32,6 +32,31 @@ Overview of ongoing theses:
 
 # Ongoing: Second half
 
+## David Grankvist (1717326)
+
+* Prel. title: Searching for Search Strategies
+* Supervisor: Peter Damaschke
+* Examiner: Patrik Jansson
+* Note: 60 hec thesis (one year instead of half a year)
+
+* 2016-06-03: Half-time report: Pass
+* 2016-02-24: Planning report: Pass
+* 2016-01-28: Examiner + supervisor assigned
+
+## Jeremy Pope (1717407)
+
+* Title: Constructive Quantifier Elimination in Agda
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://github.com/guspopje/thesisproj
+
+* 2016-10-??: Final presentation
+* 2016-04-22: Half-time report: Pass
+* 2016-04-21: Half-time report meeting
+* 2016-02-15: Planning report: Pass
+* 2016-02-04: Start
+* 2016-02-02: Examiner + supervisor assigned
+
 ## Linus Börjesson (1731034)
 
 * Title: Representation of ring localisation in cubicaltt
@@ -58,17 +83,6 @@ Overview of ongoing theses:
 * 2016-04-04: start
 * 2016-03-29: Examiner + supervisor assigned
 
-## David Grankvist (1717326)
-
-* Prel. title: Searching for Search Strategies
-* Supervisor: Peter Damaschke
-* Examiner: Patrik Jansson
-* Note: 60 hec thesis (one year instead of half a year)
-
-* 2016-06-03: Half-time report: Pass
-* 2016-02-24: Planning report: Pass
-* 2016-01-28: Examiner + supervisor assigned
-
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
@@ -88,25 +102,11 @@ Overview of ongoing theses:
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
-* 2016-08-30?: Final presentation
+* 2016-09-??: Final presentation
 * 2016-05-03: Half-time report meeting: Pass
 * 2016-02-22: Planning report: Pass
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
-
-## Jeremy Pope (1717407)
-
-* Title: Constructive Quantifier Elimination in Agda
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://github.com/guspopje/thesisproj
-
-* 2016-08-??: Final presentation
-* 2016-04-22: Half-time report: Pass
-* 2016-04-21: Half-time report meeting
-* 2016-02-15: Planning report: Pass
-* 2016-02-04: Start
-* 2016-02-02: Examiner + supervisor assigned
 
 # Ongoing: Final stretch
 
