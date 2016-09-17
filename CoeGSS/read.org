@@ -17,8 +17,9 @@ https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
 2016-09-11: [[https://docs.python.org/2.7/tutorial/controlflow.html][4]], [[https://docs.python.org/2.7/tutorial/datastructures.html][5]]
 2016-09-12: [[https://docs.python.org/2.7/tutorial/modules.html][6]], [[https://docs.python.org/2.7/tutorial/inputoutput.html][7]]
+2016-09-17: [[https://docs.python.org/2.7/tutorial/errors.html][8]]
+TODO: continue from [[https://docs.python.org/2.7/tutorial/classes.html][9]], [[https://docs.python.org/2.7/tutorial/stdlib.html][10]], [[https://docs.python.org/2.7/tutorial/stdlib2.html][11]], [[https://docs.python.org/2.7/tutorial/whatnow.html][12]]
 
-TODO: continue from [[https://docs.python.org/2.7/tutorial/errors.html][8]]
 
 ** Apache Spark Overview
 
