@@ -43,6 +43,19 @@ Overview of ongoing theses:
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
+## Joakim Öhman (1737099)
+
+* Title: Decidability of conversion in dependent type theory in Agda
+* Supervisor: Andrea Vezzosi and Andreas Abel
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
+
+* 2016-11-22: Final presentation
+* 2016-06-10: Half-time report: Pass
+* 2016-04-08: Planning report: Pass
+* 2016-04-04: start
+* 2016-03-29: Examiner + supervisor assigned
+
 ## Jeremy Pope (1717407)
 
 * Title: Constructive Quantifier Elimination in Agda
@@ -56,32 +69,6 @@ Overview of ongoing theses:
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
-
-## Linus Börjesson (1731034)
-
-* Title: Representation of ring localisation in cubicaltt
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/linusbo/disc-ctt
-
-* 2016-09-30?: Final presentation
-* 2016-06-12: Half-time report: Pass
-* 2016-06-03: Half-time presentation: OK
-* 2016-04-03: Planning report: Pass
-* 2016-03-24: Start
-
-## Joakim Öhman (1737099)
-
-* Title: Decidability of conversion in dependent type theory in Agda
-* Supervisor: Andrea Vezzosi and Andreas Abel
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
-
-* 2016-09-??: Final presentation
-* 2016-06-10: Half-time report: Pass
-* 2016-04-08: Planning report: Pass
-* 2016-04-04: start
-* 2016-03-29: Examiner + supervisor assigned
 
 ## Chongyun Yao (1715894)
 
@@ -107,6 +94,19 @@ Overview of ongoing theses:
 * 2016-02-22: Planning report: Pass
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
+
+## Linus Börjesson (1731034)
+
+* Title: Representation of ring localisation in cubicaltt
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/linusbo/disc-ctt
+
+* 2016-09-30?: Final presentation
+* 2016-06-12: Half-time report: Pass
+* 2016-06-03: Half-time presentation: OK
+* 2016-04-03: Planning report: Pass
+* 2016-03-24: Start
 
 # Ongoing: Final stretch
 
