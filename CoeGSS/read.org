@@ -19,8 +19,8 @@ https://docs.python.org/2.7/tutorial/
 2016-09-12: [[https://docs.python.org/2.7/tutorial/modules.html][6]], [[https://docs.python.org/2.7/tutorial/inputoutput.html][7]]
 2016-09-17: [[https://docs.python.org/2.7/tutorial/errors.html][8]]
 2016-09-18: [[https://docs.python.org/2.7/tutorial/classes.html][9]]
-2016-09-21: [[https://docs.python.org/2.7/tutorial/stdlib.html][10]]
-TODO: continue from [[https://docs.python.org/2.7/tutorial/stdlib2.html][11]], [[https://docs.python.org/2.7/tutorial/whatnow.html][12]]
+2016-09-21: [[https://docs.python.org/2.7/tutorial/stdlib.html][10]], [[https://docs.python.org/2.7/tutorial/stdlib2.html][11]]
+2016-09-23: [[https://docs.python.org/2.7/tutorial/whatnow.html][12]]
 
 ** Apache Spark Overview
 
