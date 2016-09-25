@@ -3,6 +3,18 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Synthetic Populations tutorial
+Slides for tutorial at IJCAI, New York City, July 10 2016
+We hope to update the slides and supplementary material
+continually over the next year.
+The current version of the slides can be found at:
+http://staff.vbi.vt.edu/swarup/synthetic_population_tutorial/
+Suggested citation:
+Samarth Swarup and Madhav V. Marathe. Generating Synthetic
+Populations for Social Modeling: Tutorial at the International Joint
+Conference on Artificial Intelligence (IJCAI). New York City, July 10
+2016. Biocomplexity Institute of Virginia Tech, Technical Report NDSSLTR-2016-044.
+
 ** Large-Scale Computing Techniques for Complex System Simulations
 Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
 http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
