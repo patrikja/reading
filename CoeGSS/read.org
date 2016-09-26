@@ -3,6 +3,15 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Large-Scale Computing Techniques for Complex System Simulations
+Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
+http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
+DubitzkyKurowskiSchott_2012_Large-scaleComputingTechniquesForComplexSystemSimulations.pdf
+Mainly Chapter 5.
+** Parsing JSON with Aeson
+https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+*** 2015-10-22: Read 80%.
+* Read
 ** Synthetic Populations tutorial
 Slides for tutorial at IJCAI, New York City, July 10 2016
 We hope to update the slides and supplementary material
@@ -15,15 +24,139 @@ Populations for Social Modeling: Tutorial at the International Joint
 Conference on Artificial Intelligence (IJCAI). New York City, July 10
 2016. Biocomplexity Institute of Virginia Tech, Technical Report NDSSLTR-2016-044.
 
-** Large-Scale Computing Techniques for Complex System Simulations
-Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
-http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
-DubitzkyKurowskiSchott_2012_Large-scaleComputingTechniquesForComplexSystemSimulations.pdf
-Mainly Chapter 5.
-** Parsing JSON with Aeson
-https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
-*** 2015-10-22: Read 80%.
-* Read
+NDSSL = Network Dynamics and Simulation Science Laboratory
+
+*** slide 7
++ Methodology:
+++ Population Synthesis
+++ Activity Assignment
+++ Location Assignment
+++ Network Construction
+*** slide 15
++ Agents have
+++ nominal (age, income),
+++ declarative (activities they take) and
+++ procedural (e.g. how to drive) data
+*** slide 19
++ Scaling to global systems is even more challenging
+++ Initial storage size of data: 7.7 Terabytes
+
+Coarse populations
+Countries:    220
+Workplaces:   219.5 Million
+Individuals:    7.2 Billion
+Interactions:  45 Billion
+Households:     2.6 Billion
+Schools:       51.6 Million
+++ Storage: rule of thumb 1-2 GB/million individuals
+++ Current computation time estimate (including testing, data transfers, etc.): 45 days
+
+Computations and performance data assume extensive and powerful hardware.
+
+*** slide 24-25: POPULATION SYNTHESIS
+
+Goal: To generate a population of agents with realistic demographic attributes
+Input:
++ Distributions over demographics (marginal distributions),
++ A sample of census records
+
+Method: Iterative Proportional Fitting (IPF)
+
+*** slide 27: US census data resolution
+
+Block group (600-3000 people)
+
+*** slide 28:
+
+Public Use Microdata Areas (PUMAs) are statistical
+geographic areas defined for the dissemination of Public
+Use Microdata Sample (PUMS) data.
+– This is a 5% sample of the Census records.
+– A PUMA contains at least 100,000 people.
+– PUMAs are built on Census tracts and counties.
+
+The US data is really useful. Marginal distributions down to block
+group level and household + age correlation at "PUMS" level.
+
+*** slide 32 to 53: IPF explanation and example
+
+
+*** slide 54
+
++ TRANSIMS - https://www.fhwa.dot.gov/planning/tmip/resources/transims/
+++ Used for accurate and sensitive travel forecasts for transportation planning and emission analysis
++ URBANSIM - http://www.urbansim.com/urbansim/
+++ To simulate metropolitan real estate markets and study the impact of land use policies
++ EUROMOD - https://www.euromod.ac.uk/
+++ EU based microsimulation to calculate effects of taxes and benefits on incomes and work incentives
++ POHEM - http://www.statcan.gc.ca/eng/microsimulation/modgen/new/mods/pohem
+++ Canada based Longitudinal population health microsimulation model to rationally compare competing health intervention alternatives
++ TRIM - http://trim.urban.org/T3Welcome.php
+++ to understand the potential outcomes of public policy changes such as welfare reform, tax reform, and national health care reform.
+
+*** slide 55: several references (starting from 1940)
+
+*** slide 56 onwards: Activity assignment
+
++ Goal: To assign a realistic daily activity sequence to each agent
++ Input:
+++ A synthetic population of agents with demographics,
+++ A household activity survey
++ Methods:
+++ Classification and Regression Trees
+++ Fitted Values Method
+
+*** slide 62-74: Activity assignment explanation + method comparison
+
+Several slides show three graphs of the result using three different
+methods. They differ significantly which indicates it is important to
+check that results are reasonably stable over different methods => we
+should implement more than one method.
+
+Most of the details here are mainly important for cases when
+transportation or physical contact is important to track. (For traffic
+management, infrastructure investments, spreading of contagious
+disease, etc.
+
+*** slide 75: Location assignment
+
++ Goal: To assign a geographical location for each activity for each agent
++ Input:
+++ A synthetic population of agents with demographics and daily activity sequences
+++ Geographical data on roads, residence types, business locations, school locations, and other points of interest
++ Methods:
+++ Gravity model
+++ Trip chaining model
+++ Radiation model
+
+*** slides following: (up to 83)
+
+Assigning Home location: based on detailed maps of dwelling units and
+building capacity, pick locations using the resulting density at
+random (based on household type, income, etc?).
+
+Then schools are assigned reasonably close using an optimisation model.
+
+Finally other activities are assigned.
+
+This gives local travel as part of the daily commute schedule.
+
+*** slide 84: Travel intensity (longer distance travel)
+
+*** Gravity model (slides 84-88): described in a negative way.
+
+*** Radiation model (slides 89-92):
+
+(TODO: page 90 has several symbols missing)
+
+Problem identified: the euclidean distance is not the right metric in
+reality. You need a road of some sort (and speed, congestion, etc.).
+
+*** Generalized radiation model (93-94)
+
+*** TODO: read from slide 95
+
+
 ** Python tutorial
 https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
