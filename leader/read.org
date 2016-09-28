@@ -1,5 +1,16 @@
 #+STARTUP: logdone
 
+* Förslag till ändring av Chalmers institutionsstruktur
+Björn von Sydow
+2016-09-20
+
+Björn beskriver hur dagens 17 institutioner med en spridning i storlek
+på ca 4 skulle kunna omorganiseras till 11 institutioner med en
+spridning på ca 2. Välskrivet, genomarbetat (jmf. med den korta
+utredningstiden) och ett intressant förslag som i stora drag verkar
+genomförbart. [But the devil is in the details ...]
+
+
 * PAID (Performance AppraIsal Discussions)
 ** All the notes from last years' meetings.
 2016-09-06: Read
