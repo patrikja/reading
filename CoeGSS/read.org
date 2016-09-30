@@ -156,7 +156,6 @@ reality. You need a road of some sort (and speed, congestion, etc.).
 
 *** TODO: read from slide 95
 
-
 ** Python tutorial
 https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
@@ -166,6 +165,8 @@ https://docs.python.org/2.7/tutorial/
 2016-09-18: [[https://docs.python.org/2.7/tutorial/classes.html][9]]
 2016-09-21: [[https://docs.python.org/2.7/tutorial/stdlib.html][10]], [[https://docs.python.org/2.7/tutorial/stdlib2.html][11]]
 2016-09-23: [[https://docs.python.org/2.7/tutorial/whatnow.html][12]]
+
+2016-09-29: [[https://docs.python.org/3.5/library/index.html][StdLib]], [[https://docs.python.org/3.5/library/intro.html][Intro]]
 
 ** Apache Spark Overview
 

@@ -63,7 +63,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: https://github.com/guspopje/thesisproj
 
-* 2016-10-??: Final presentation
+* 2016-11-22?: Final presentation
 * 2016-04-22: Half-time report: Pass
 * 2016-04-21: Half-time report meeting
 * 2016-02-15: Planning report: Pass
