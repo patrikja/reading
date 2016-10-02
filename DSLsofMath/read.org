@@ -1,4 +1,32 @@
 To read:
+* A First Course in Chaotic Dynamical Systems
+Theory and Experiment
+Robert L. Devaney
+https://westviewpress.com/books/a-first-course-in-chaotic-dynamical-systems/
+
+** Ch. 1. A mathematical and Historical Tour
+** Ch. 2. Examples of Dynamical Systems
+** Ch. 3. Orbits
+** Ch. 4. Graphical Analysis
+** Ch. 5. Fixed and Periodic Points
+** Ch. 6. Bifurcations
+** Ch. 7. The Quadratic Family
+** Ch. 8. Transition to Chaos
+** Ch. 9. Symbolic Dynamics
+** Ch. 10. Chaos
+** Ch. 11. Sarkovskii's Theorem
+** Ch. 12. The Role of the Critical Orbit
+** Ch. 13. Newton's Method
+** Ch. 14. Fractals
+** Ch. 15. Complex Functions
+** Ch. 16. The Julia Set
+** Ch. 17. The Mandelbrot Set
+** Ch. 18. Further Projects and Experiments
+** App. A. Mathematical Preliminaries
+** App. B. Algorithms
+** App. C. References
+
+
 * “Keep definition, change category” — A practical approach to state-based system calculi
 José Nuno Oliveiraa, Victor Cacciari Miraldob
 http://www.sciencedirect.com/science/article/pii/S2352220815001443
