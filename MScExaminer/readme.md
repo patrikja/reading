@@ -97,12 +97,12 @@ Overview of ongoing theses:
 
 ## Linus Börjesson (1731034)
 
-* Title: Representation of ring localisation in cubicaltt
+* Title: Ring localisation in cubical type theory
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 * Source code: https://bitbucket.org/linusbo/disc-ctt
 
-* 2016-09-30?: Final presentation
+* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation
 * 2016-06-12: Half-time report: Pass
 * 2016-06-03: Half-time presentation: OK
 * 2016-04-03: Planning report: Pass
@@ -118,7 +118,7 @@ Overview of ongoing theses:
 * Supervisors: John Camilleri (and Gerardo Schneider)
 * Examiner: Patrik Jansson
 
-* 2016-06-11: Almost final report read - just details missing
+* 2016-06-11: Almost final report read - just details missing. (Waiting for opposition opportunity.)
 * 2016-05-25: Read the start of the final report draft -> revision needed.
 * [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
 * 2016-02-25: Half-time report + meeting: Pass
