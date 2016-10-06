@@ -12,6 +12,15 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** The Tragedy of the Commons
+Garrett Hardin
++ Author Affiliations
+Science  13 Dec 1968:
+Vol. 162, Issue 3859, pp. 1243-1248
+DOI: 10.1126/science.162.3859.1243
+
+2016-10-06: Read
+
 ** Synthetic Populations tutorial
 Slides for tutorial at IJCAI, New York City, July 10 2016
 We hope to update the slides and supplementary material
