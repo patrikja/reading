@@ -1,4 +1,9 @@
 To read:
+* Real and Complex Analysis (Higher Mathematics Series) 3rd Edition
+by Walter Rudin
+
+2016-10-07: Read the first pages.
+
 * A First Course in Chaotic Dynamical Systems
 Theory and Experiment
 Robert L. Devaney
@@ -25,7 +30,6 @@ https://westviewpress.com/books/a-first-course-in-chaotic-dynamical-systems/
 ** App. A. Mathematical Preliminaries
 ** App. B. Algorithms
 ** App. C. References
-
 
 * “Keep definition, change category” — A practical approach to state-based system calculi
 José Nuno Oliveiraa, Victor Cacciari Miraldob
