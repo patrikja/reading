@@ -162,9 +162,22 @@ Problem identified: the euclidean distance is not the right metric in
 reality. You need a road of some sort (and speed, congestion, etc.).
 
 *** Generalized radiation model (93-94)
-
-*** TODO: read from slide 95
-
+*** slide 95 - 111: Network construction
+Four case studies where the original network structure has been
+compared to more precise data. It turns out that the orverall
+parameters look very similar, but the relevant output (spreading of
+infections) was still significantly changed (a factor of two faster
+spread in schools for example). See page 107.
+*** 112-135: Applications & extensions
+Three significant programs: 1992 - present
++ TRANSIMS: Urban transport planning (1991-2001)
+++ Long term policies, first use of HPC for social sciences
++ CNIMS: National Incident management system (2005-present)
+++ Interdependent infrastructure modeling and simulation, short-term planning and response for large scale disasters
++ Simdemics: Real-time epidemic planning and response
+++ Planning and response; short time scale (1-6 months)
+*** 136-139: Concluding remarks
+Read 2016-10-10.
 ** Python tutorial
 https://docs.python.org/2.7/tutorial/
 2016-09-10: Started: [[https://docs.python.org/2.7/tutorial/appetite.html][1]], [[https://docs.python.org/2.7/tutorial/interpreter.html][2]], [[https://docs.python.org/2.7/tutorial/introduction.html][3]]
