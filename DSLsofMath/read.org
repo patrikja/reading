@@ -1,7 +1,19 @@
 To read:
+* Introduction to Probability and Statistics: Principles and Applications for Engineering and the Computing Sciences
+Milton, J. Susan; Arnold, Jesse
+http://www.abebooks.com/9780072468366/Introduction-Probability-Statistics-Principles-Applications-007246836X/plp
+
+This is the course book for the local CSE students in year 2, study
+period 1 = the most recent maths course before the DSLsofMath
+course. I want to read parts of it to get a feeling for what they have
+been reading recently.
+
+2016-10-15: Started reading
+
 * Real and Complex Analysis (Higher Mathematics Series) 3rd Edition
 by Walter Rudin
 
+2016-10-10: Up to page 17
 2016-10-07: Read the first pages.
 
 * A First Course in Chaotic Dynamical Systems
@@ -30,29 +42,29 @@ https://westviewpress.com/books/a-first-course-in-chaotic-dynamical-systems/
 ** App. A. Mathematical Preliminaries
 ** App. B. Algorithms
 ** App. C. References
-
 * “Keep definition, change category” — A practical approach to state-based system calculi
 José Nuno Oliveiraa, Victor Cacciari Miraldob
 http://www.sciencedirect.com/science/article/pii/S2352220815001443
 file:/home/patrikj/Dropbox/To_read/Oliveira_KeepDef_ChangeCat_1-s2.0-S2352220815001443-main.pdf
-
 * "Typing linear algebra: A biproduct-oriented approach"
 Hugo Daniel Macedo (INRIA Paris-Rocquencourt), José N. Oliveira (HASLab)
 http://arxiv.org/abs/1312.4818
 file:/home/patrikj/Dropbox/To_read/Oliveira_TypingAlgebra_1-s2.0-S0167642312001402-main.pdf
-
 * TFPIE 2014 by Scott N. Walck
 https://wiki.science.ru.nl/tfpie/images/2/25/LearnPhysics.pdf
 https://wiki.science.ru.nl/tfpie/images/4/4a/Tfpie2014_submission_6.pdf
 * On Teaching How to Design Programs: Observations from a Newcomer, Norman Ramsey, ICFP 2014
   https://www.cs.tufts.edu/~nr/pubs/htdp-tablet.pdf
-
 Started reading 2015-06-20.
 Very well written and interesting.
 * Painless Conjugate Gradient, J. R. Chewchuk
 http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
-
 A detailed explanation and illustration of the "Conjugate gradient" method for solving large sparse matrix equations.
+* "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
+  https://mitpress.mit.edu/books/functional-differential-geometry
+  https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
+
+Read:
 * "How to Solve It", Polya
 ** 2015-11-19: Intro (1-30)
 Polya's "How to Solve It"
@@ -69,6 +81,3 @@ Polya's "How to Solve It"
 ** 2015-12-20: Pages -220
 ** 2015-12-21: Pages -240
 ** 2015-12-23: Pages -260
-* "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
-  https://mitpress.mit.edu/books/functional-differential-geometry
-  https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
