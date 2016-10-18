@@ -15,7 +15,6 @@ Overview of ongoing theses:
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
-| 2015-10 | Final stretch | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 
 # Ongoing: planning stage
 
@@ -116,26 +115,13 @@ Overview of ongoing theses:
 
 [Between final presentation and final grading.]
 
-## Runa Gulliksson (1684604)
-
-* Title: Automatic Translation from contract DSL to Timed Automata
-* Supervisors: John Camilleri (and Gerardo Schneider)
-* Examiner: Patrik Jansson
-
-* 2016-06-11: Almost final report read - just details missing. (Waiting for opposition opportunity.)
-* 2016-05-25: Read the start of the final report draft -> revision needed.
-* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
-* 2016-02-25: Half-time report + meeting: Pass
-* 2015-11-13: Planning report: Pass
-* 2015-11-04: Examiner + supervisor assigned
-* 2015-10-25: Start
-
 # Done
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2015-10 | 2016-10 | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2016-02 | 2016-06 | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
 | 2016-01 | 2016-06 | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
 | 2015-10 | 2016-06 | [Andreas Arvidsson / Robin Touche](#andreas-arvidsson--robin-touche-1685921) |
@@ -144,6 +130,22 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Runa Gulliksson (1684604)
+
+* Title: Automatic Translation from contract DSL to Timed Automata
+* Supervisors: John Camilleri (and Gerardo Schneider)
+* Examiner: Patrik Jansson
+
+* 2016-10-17: Opposition OK => Final pass on the thesis.
+* 2016-06-23: Final report OK. (Waiting for opposition opportunity.)
+* 2016-06-11: Almost final report read - just details missing.
+* 2016-05-25: Read the start of the final report draft -> revision needed.
+* [2016-05-23](https://masterthesis.cms.chalmers.se/content/monday-may-23-2016): [Final presentation (at 13.00 in the EDIT-room)](https://masterthesis.cms.chalmers.se/content/automatic-translation-contract-dsl-timed-automata): Pass
+* 2016-02-25: Half-time report + meeting: Pass
+* 2015-11-13: Planning report: Pass
+* 2015-11-04: Examiner + supervisor assigned
+* 2015-10-25: Start
 
 ## Emil Edholm & David Göransson (1711054)
 
