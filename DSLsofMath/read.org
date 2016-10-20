@@ -8,6 +8,7 @@ period 1 = the most recent maths course before the DSLsofMath
 course. I want to read parts of it to get a feeling for what they have
 been reading recently.
 
+2016-10-20: up to page 74
 2016-10-16: up to page 22.
 2016-10-15: Started reading
 
