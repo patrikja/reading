@@ -1,4 +1,5 @@
 To read:
+
 * Introduction to Probability and Statistics: Principles and Applications for Engineering and the Computing Sciences
 Milton, J. Susan; Arnold, Jesse
 http://www.abebooks.com/9780072468366/Introduction-Probability-Statistics-Principles-Applications-007246836X/plp
@@ -12,7 +13,6 @@ been reading recently.
 2016-10-20: up to page 74
 2016-10-16: up to page 22.
 2016-10-15: Started reading
-
 * Real and Complex Analysis (Higher Mathematics Series) 3rd Edition
 by Walter Rudin
 

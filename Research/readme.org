@@ -1,0 +1,10 @@
+* To read:
+
+** Refinement Reflection
+(or, how to turn your favorite language into a proof assistant using SMT)
+Niki Vazou Ranjit Jhala
+University of California, San Diego
+
+arXiv:1610.04641v1 [cs.PL] 14 Oct 2016
+
+https://arxiv.org/pdf/1610.04641.pdf
