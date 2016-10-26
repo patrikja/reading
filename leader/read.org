@@ -1,5 +1,12 @@
 #+STARTUP: logdone
 
+* Fakultetsmodellen
+** Lägesrapport Q3 - Implementering av nya fakultetsmodellen (Mats Viberg)
++ Vidarefördelning av basfinansiering
+++ målet på sikt är 75% per enhet (inst. eller avdelning) - inte per individ
+++ fördelning till individ baserat på prestationsparametrar är _inte_ förenligt med fakultetsmodellen
+++ Centralisering av grundutbildningssamordning på institution
+
 * Förslag till ändring av Chalmers institutionsstruktur
 Björn von Sydow
 2016-09-20
@@ -20,6 +27,18 @@ Read the "Manager Report" for the ST division + subunits (A, B, C1+C2).
 2016-10-23: read and summarised
 ** Budget 2017
 2016-10-23: final draft to economy admin
+** VP 2017 (Chalmers instruktioner)
++ 2016-10-24: Bilaga 2_ Beskrivning prestationsparametrar gammal och ny modell
+++ 6.1% av gamla (prestation+bas)-tilldelningen
+++ 4.7% av nya prestations-tilldelningen
++ 2016-10-24: Anvisningar%20fo%20r%20verksamhetsplaneringen%202017-2019.pdf
+++ FoFu-medel http://document.chalmers.se/doc/2dfdcd7e-9112-472a-a52b-d32fa7c43ec2
++++ Disp. lärare = 46.64 = 7% (D&IT / Chalmers) = 8Mkr för 2017 (av 114Mkr)
++++ PhD-degrees  = 51.5  = 5.7%                 = 6Mkr för 2017 (av 104Mkr)
++++ Externa medel= 69Mkr = 5.2%                 = 3Mkr för 2017 (av  61Mkr)
++++ Rektor                 1.2%                 = 2Mkr för 2017 (av 182Mkr)
+
+
 * VP information HT 2016
 ** Information regarding the VP meetings between CSE ILG(parts of) and Divisions (Version 2016-08-10)
 2016-08-20: Read
