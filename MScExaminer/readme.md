@@ -92,7 +92,7 @@ Overview of ongoing theses:
 * Supervisor: Carlo Furia
 * Examiner: Patrik Jansson
 
-* 2016-10-??: Final presentation
+* [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): Final presentation
 * 2016-05-04: (delayed) Half-time report: Pass
 * 2016-04-11: Half-time presentation: OK
 * 2016-03-03: Planning report submitted: Pass
