@@ -1,5 +1,9 @@
 #+STARTUP: logdone
-
+* your brain at work
+** Author: David Rock
+** Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long
+** Audiobook through Storytel
+** 2016-11-03: up to 6h24m (3h18m left)
 * Fakultetsmodellen
 ** Lägesrapport Q3 - Implementering av nya fakultetsmodellen (Mats Viberg)
 + Vidarefördelning av basfinansiering
