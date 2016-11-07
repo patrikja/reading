@@ -59,19 +59,6 @@ Overview of ongoing theses:
 * 2016-04-04: start
 * 2016-03-29: Examiner + supervisor assigned
 
-## Linus Börjesson (1731034)
-
-* Title: Ring localisation in cubical type theory
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/linusbo/disc-ctt
-
-* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation
-* 2016-06-12: Half-time report: Pass
-* 2016-06-03: Half-time presentation: OK
-* 2016-04-03: Planning report: Pass
-* 2016-03-24: Start
-
 ## Jeremy Pope (1717407)
 
 * Title: Constructive Quantifier Elimination in Agda
@@ -86,6 +73,32 @@ Overview of ongoing theses:
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
+
+## Linus Börjesson (1731034)
+
+* Title: Ring localisation in cubical type theory
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/linusbo/disc-ctt
+
+* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory)
+* 2016-06-12: Half-time report: Pass
+* 2016-06-03: Half-time presentation: OK
+* 2016-04-03: Planning report: Pass
+* 2016-03-24: Start
+
+## Ragnar Lárus Sigurðsson (1717398)
+
+* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
+* Supervisor: Atze van der Ploeg
+* Examiner: Patrik Jansson
+
+* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection)
+* 2016-05-03: Half-time report meeting: Pass
+* 2016-02-22: Planning report: Pass
+* 2016-02-09: Examiner + supervisor assigned
+* 2016-02-05: Proposal accepted
+
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
@@ -98,19 +111,6 @@ Overview of ongoing theses:
 * 2016-03-03: Planning report submitted: Pass
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
-
-## Ragnar Lárus Sigurðsson (1717398)
-
-* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
-* Supervisor: Atze van der Ploeg
-* Examiner: Patrik Jansson
-
-* 2016-10-??: Final presentation
-* 2016-05-03: Half-time report meeting: Pass
-* 2016-02-22: Planning report: Pass
-* 2016-02-09: Examiner + supervisor assigned
-* 2016-02-05: Proposal accepted
-
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
