@@ -11,3 +11,9 @@
 ## Patrik Jansson
 
 * 2016-04-02: Read through my current draft VR application
+
+# Reporting
+
+## RAWFP
+
+* 2016-11-16: Re-read the RAWFP yearly reports and the midterm report in preparation for the final report.
