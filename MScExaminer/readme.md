@@ -10,11 +10,11 @@ Overview of ongoing theses:
 | ------- | ------------- | ------------------------------------------------- | ------- |
 | 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722) |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
-| 2016-03 | Second half   | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
+| 2016-03 | Final stretch | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 
 # Ongoing: planning stage
 
@@ -46,19 +46,6 @@ Overview of ongoing theses:
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
-## Joakim Öhman (1737099)
-
-* Title: Pi-Injectivity in Dependent Type Theory Formalized in Agda
-* Supervisor: Andrea Vezzosi and Andreas Abel
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
-
-* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation
-* 2016-06-10: Half-time report: Pass
-* 2016-04-08: Planning report: Pass
-* 2016-04-04: start
-* 2016-03-29: Examiner + supervisor assigned
-
 ## Jeremy Pope (1717407)
 
 * Title: Constructive Quantifier Elimination in Agda
@@ -66,7 +53,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: https://github.com/guspopje/thesisproj
 
-* 2016-11-22?: Final presentation
+* 2016-12-??: Final presentation
 * 2016-04-22: Half-time report: Pass
 * 2016-04-21: Half-time report meeting
 * 2016-02-15: Planning report: Pass
@@ -114,6 +101,20 @@ Overview of ongoing theses:
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
+
+## Joakim Öhman (1737099)
+
+* Title: Pi-Injectivity in Dependent Type Theory Formalized in Agda
+* Supervisor: Andrea Vezzosi and Andreas Abel
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
+
+* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation: Pass
+* 2016-06-10: Half-time report: Pass
+* 2016-04-08: Planning report: Pass
+* 2016-04-04: start
+* 2016-03-29: Examiner + supervisor assigned
+
 
 # Done
 
