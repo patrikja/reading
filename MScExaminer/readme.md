@@ -28,7 +28,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 
 * 2017-02-28?: Final presentation
-* 2016-11-15?: Half-time report
+* 2016-12-0?: Half-time report
 * 2016-10-03: Planning report: Pass
 * 2016-09-05: Start
 
@@ -54,16 +54,29 @@ Overview of ongoing theses:
 * Source code: https://github.com/guspopje/thesisproj
 
 * 2016-12-??: Final presentation
+* 2016-11-02: Extension granted
 * 2016-04-22: Half-time report: Pass
 * 2016-04-21: Half-time report meeting
 * 2016-02-15: Planning report: Pass
 * 2016-02-04: Start
 * 2016-02-02: Examiner + supervisor assigned
 
+## Chongyun Yao (1715894)
+
+* Title: Fuzzing algorithms for security in vehicles
+* Supervisor: Carlo Furia
+* Examiner: Patrik Jansson
+
+* [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/fuzzing-algorithms-security-vehicles)
+* 2016-05-04: (delayed) Half-time report: Pass
+* 2016-04-11: Half-time presentation: OK
+* 2016-03-03: Planning report submitted: Pass
+* 2016-02-15: start
+* 2016-02-11: Examiner + supervisor assigned
 
 ## Linus Börjesson (1731034)
 
-* Title: Ring localisation in cubical type theory
+* Title: A representation of the Grothendieck group in cubical type theory
 * Supervisor: Thierry Coquand
 * Examiner: Patrik Jansson
 * Source code: https://bitbucket.org/linusbo/disc-ctt
@@ -76,7 +89,7 @@ Overview of ongoing theses:
 
 ## Ragnar Lárus Sigurðsson (1717398)
 
-* Prel. title: Practical Performance of Incremental Topological Sorting/Loop Detection
+* Title: Practical Performance of Incremental Topological Sorting and Cycle Detection
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
@@ -86,18 +99,6 @@ Overview of ongoing theses:
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
 
-## Chongyun Yao (1715894)
-
-* Title: Fuzzing algorithms for security in vehicles
-* Supervisor: Carlo Furia
-* Examiner: Patrik Jansson
-
-* [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): Final presentation
-* 2016-05-04: (delayed) Half-time report: Pass
-* 2016-04-11: Half-time presentation: OK
-* 2016-03-03: Planning report submitted: Pass
-* 2016-02-15: start
-* 2016-02-11: Examiner + supervisor assigned
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
