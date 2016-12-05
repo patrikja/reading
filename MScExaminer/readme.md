@@ -27,8 +27,9 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* 2017-02-28?: Final presentation
-* 2016-12-0?: Half-time report
+* 2017-04-2?: Final presentation
+* 2017-01-3?: Half-time report
+* 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
 * 2016-09-05: Start
 
@@ -41,7 +42,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
-* 2016-12-??: Final presentation
+* 2017-01-2?: Final presentation
 * 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
