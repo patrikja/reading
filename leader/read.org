@@ -5,7 +5,8 @@ Helena Olofsdotter Stensöta and Sara Hun
 Political Science Department, University of Gothenburg
 November, 2016
 
-2016-12-07: read up to page 24
++ 2016-12-07: read up to page 24
++ 2016-12-10: read up to page 60
 
 * your brain at work
 ** Author: David Rock
@@ -50,7 +51,6 @@ Read the "Manager Report" for the ST division + subunits (A, B, C1+C2).
 +++ Externa medel= 69Mkr = 5.2%                 = 3Mkr för 2017 (av  61Mkr)
 +++ Rektor                 1.2%                 = 2Mkr för 2017 (av 182Mkr)
 
-
 * VP information HT 2016
 ** Information regarding the VP meetings between CSE ILG(parts of) and Divisions (Version 2016-08-10)
 2016-08-20: Read
@@ -74,7 +74,7 @@ ISBN: 9789100156459
 2016-04-13: Read the text sent out from the leadership course
 
 Link to workshop offers (but not the text):
-*  http://www.egenart.info/gaffney/insida.php?pageid=utvecklvag
++  http://www.egenart.info/gaffney/insida.php?pageid=utvecklvag
 
 * Groups, Teams and Groupwork Revisited
 A Theory, Methodology and Practice for the 21st Century
