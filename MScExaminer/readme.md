@@ -14,7 +14,6 @@ Overview of ongoing theses:
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
 | 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
 | 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
-| 2016-03 | Final stretch | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 
 # Ongoing: planning stage
 
@@ -104,26 +103,13 @@ Overview of ongoing theses:
 
 [Between final presentation and final grading.]
 
-## Joakim Öhman (1737099)
-
-* Title: Pi-Injectivity in Dependent Type Theory Formalized in Agda
-* Supervisor: Andrea Vezzosi and Andreas Abel
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
-
-* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation: Pass
-* 2016-06-10: Half-time report: Pass
-* 2016-04-08: Planning report: Pass
-* 2016-04-04: start
-* 2016-03-29: Examiner + supervisor assigned
-
-
 # Done
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-03 | 2016-12 | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2015-10 | 2016-10 | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2016-02 | 2016-06 | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
 | 2016-01 | 2016-06 | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
@@ -133,6 +119,20 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Joakim Öhman (1737099)
+
+* Title: Pi-Injectivity in Dependent Type Theory Formalized in Agda
+* Supervisor: Andrea Vezzosi and Andreas Abel
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/mr-ohman/dec-of-conv
+
+* 2016-12-10: Final report: Pass with distinction
+* [2016-11-22](https://masterthesis.cms.chalmers.se/content/tuesday-november-22-2016): Final presentation: Pass
+* 2016-06-10: Half-time report: Pass
+* 2016-04-08: Planning report: Pass
+* 2016-04-04: start
+* 2016-03-29: Examiner + supervisor assigned
 
 ## Runa Gulliksson (1684604)
 

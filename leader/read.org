@@ -7,6 +7,7 @@ November, 2016
 
 + 2016-12-07: read up to page 24
 + 2016-12-10: read up to page 60
++ 2016-12-12: finished (page 97)
 
 * your brain at work
 ** Author: David Rock
@@ -39,7 +40,8 @@ Read the "Manager Report" for the ST division + subunits (A, B, C1+C2).
 ** Budget 2016
 2016-10-23: read and summarised
 ** Budget 2017
-2016-10-23: final draft to economy admin
++ 2016-10-23: final draft to economy admin
++ 2016-12-12: final updates after hand-over meetings with GeSc(FM), DaSa(iSec), AaRa(FP)
 ** VP 2017 (Chalmers instruktioner)
 + 2016-10-24: Bilaga 2_ Beskrivning prestationsparametrar gammal och ny modell
 ++ 6.1% av gamla (prestation+bas)-tilldelningen
