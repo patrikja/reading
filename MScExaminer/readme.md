@@ -78,10 +78,11 @@ Overview of ongoing theses:
 ## Chongyun Yao (1715894)
 
 * Title: Fuzzing algorithms for security in vehicles
-* Supervisor: Carlo Furia
+* Supervisor: Carlo Furia (Chalmers), Henrik Broberg (Volvo)
 * Examiner: Patrik Jansson
 
 * [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/fuzzing-algorithms-security-vehicles)
+* 2016-12-19: Report draft: returned with comments
 * 2016-05-04: (delayed) Half-time report: Pass
 * 2016-04-11: Half-time presentation: OK
 * 2016-03-03: Planning report submitted: Pass
