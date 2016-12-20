@@ -12,8 +12,8 @@ Overview of ongoing theses:
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
 | 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
 | 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
-| 2016-02 | Second half   | [Chongyun Yao](#chongyun-yao-1715894)                                        |
-| 2016-02 | Second half   | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
+| 2016-02 | Final stretch | [Chongyun Yao](#chongyun-yao-1715894)                                        |
+| 2016-02 | Final stretch | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
 
 # Ongoing: planning stage
 
@@ -27,7 +27,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 
 * 2017-04-2?: Final presentation
-* 2017-01-3?: Half-time report
+* 2017-01-25: Half-time report meeting
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
 * 2016-09-05: Start
@@ -69,11 +69,15 @@ Overview of ongoing theses:
 * Source code: https://bitbucket.org/linusbo/disc-ctt
 
 * 2017-01-??: Final presentation
-* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [dry-run](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory)
+* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [dry-run](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory). Extension granted.
 * 2016-06-12: Half-time report: Pass
 * 2016-06-03: Half-time presentation: OK
 * 2016-04-03: Planning report: Pass
 * 2016-03-24: Start
+
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
 
 ## Chongyun Yao (1715894)
 
@@ -83,6 +87,7 @@ Overview of ongoing theses:
 
 * [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/fuzzing-algorithms-security-vehicles)
 * 2016-12-19: Report draft: returned with comments
+* 2016-10-28: Extension granted
 * 2016-05-04: (delayed) Half-time report: Pass
 * 2016-04-11: Half-time presentation: OK
 * 2016-03-03: Planning report submitted: Pass
@@ -96,14 +101,11 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 
 * [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
+* 2016-10-13: Extension granted
 * 2016-05-03: Half-time report meeting: Pass
 * 2016-02-22: Planning report: Pass
 * 2016-02-09: Examiner + supervisor assigned
 * 2016-02-05: Proposal accepted
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
 
 # Done
 
