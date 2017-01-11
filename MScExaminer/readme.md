@@ -68,7 +68,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Source code: https://bitbucket.org/linusbo/disc-ctt
 
-* 2017-01-??: Final presentation
+* [2017-01-25](https://masterthesis.cms.chalmers.se/content/wednesday-january-25-2017): Final presentation
 * [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [dry-run](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory). Extension granted.
 * 2016-06-12: Half-time report: Pass
 * 2016-06-03: Half-time presentation: OK

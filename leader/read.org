@@ -1,4 +1,6 @@
 #+STARTUP: logdone
+
+
 * Attractive Academia?
 Selection processes from PhD to further academic career with special emphasis on the supervisor relationship
 Helena Olofsdotter Stensöta and Sara Hun
@@ -21,7 +23,17 @@ November, 2016
 ++ fördelning till individ baserat på prestationsparametrar är _inte_ förenligt med fakultetsmodellen
 ++ Centralisering av grundutbildningssamordning på institution
 
-* Förslag till ändring av Chalmers institutionsstruktur
+* Chalmers omorganisation 2017
+** Beslut per institution 2016-12-19
+
+Note that half of the CSE department "old" accumulated profit
+(before 2006) is "absorbed" by the university level. >15M SEK.
+
+http://www.chalmers.se/insidan/SV/aktuellt/nyheter/artiklar/beslut-per-institution
+http://www.chalmers.se/insidan/SV/aktuellt/nyheter/artiklar/beslut-per-institution/downloadFile/attachedFile_f0/Beslut_per_institution_19_december_2016_del_1?nocache=1482243847.98
+http://www.chalmers.se/insidan/SV/aktuellt/nyheter/artiklar/beslut-per-institution/downloadFile/attachedFile_1_f0/Beslut_per_institution_19_december_2016_del_2?nocache=1482243847.98
+
+** Förslag till ändring av Chalmers institutionsstruktur
 Björn von Sydow
 2016-09-20
 
