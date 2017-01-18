@@ -41,7 +41,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
-* 2017-01-2?: Final presentation
+* 2017-0?-??: Final presentation
 * 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
@@ -100,6 +100,7 @@ Overview of ongoing theses:
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
+* 2016-01-17: Report draft returned with comments
 * [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
 * 2016-10-13: Extension granted
 * 2016-05-03: Half-time report meeting: Pass
