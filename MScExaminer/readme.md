@@ -41,7 +41,7 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one year instead of half a year)
 
-* 2017-0?-??: Final presentation
+* [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation
 * 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
