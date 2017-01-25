@@ -8,12 +8,10 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722) |
-| 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                                  | 60-hec thesis
-| 2016-02 | Second half   | [Jeremy Pope](#jeremy-pope-1717407)                                          |
-| 2016-03 | Second half   | [Linus Börjesson](#linus-börjesson-1731034)                                  |
-| 2016-02 | Final stretch | [Chongyun Yao](#chongyun-yao-1715894)                                        |
-| 2016-02 | Final stretch | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398)                  |
+| 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
+| 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
+| 2016-02 | Final stretch | [Chongyun Yao](#chongyun-yao-1715894)                       |
+| 2016-02 | Final stretch | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
 
 # Ongoing: planning stage
 
@@ -46,35 +44,6 @@ Overview of ongoing theses:
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
 
-## Jeremy Pope (1717407)
-
-* Title: Constructive Quantifier Elimination in Agda
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://github.com/guspopje/thesisproj
-
-* 2017-01-??: Final presentation
-* 2016-11-02: Extension granted
-* 2016-04-22: Half-time report: Pass
-* 2016-04-21: Half-time report meeting
-* 2016-02-15: Planning report: Pass
-* 2016-02-04: Start
-* 2016-02-02: Examiner + supervisor assigned
-
-## Linus Börjesson (1731034)
-
-* Title: A representation of the Grothendieck group in cubical type theory
-* Supervisor: Thierry Coquand
-* Examiner: Patrik Jansson
-* Source code: https://bitbucket.org/linusbo/disc-ctt
-
-* [2017-01-25](https://masterthesis.cms.chalmers.se/content/wednesday-january-25-2017): Final presentation
-* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [dry-run](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory). Extension granted.
-* 2016-06-12: Half-time report: Pass
-* 2016-06-03: Half-time presentation: OK
-* 2016-04-03: Planning report: Pass
-* 2016-03-24: Start
-
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
@@ -100,7 +69,7 @@ Overview of ongoing theses:
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
-* 2016-01-17: Report draft returned with comments
+* 2017-01-17: Report draft returned with comments
 * [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
 * 2016-10-13: Extension granted
 * 2016-05-03: Half-time report meeting: Pass
@@ -114,6 +83,8 @@ Overview of ongoing theses:
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-02 | 2017-01 | [Jeremy Pope](#jeremy-pope-1717407)               | Aborted
+| 2016-03 | 2017-01 | [Linus Börjesson](#linus-börjesson-1731034)       | Aborted
 | 2016-03 | 2016-12 | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
 | 2015-10 | 2016-10 | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2016-02 | 2016-06 | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
@@ -124,6 +95,35 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Jeremy Pope (1717407)
+
+* Title: Constructive Quantifier Elimination in Agda
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://github.com/guspopje/thesisproj
+
+* 2017-01-23: Aborted (=> Fail)
+* 2016-11-02: Extension granted
+* 2016-04-22: Half-time report: Pass
+* 2016-04-21: Half-time report meeting
+* 2016-02-15: Planning report: Pass
+* 2016-02-04: Start
+* 2016-02-02: Examiner + supervisor assigned
+
+## Linus Börjesson (1731034)
+
+* Title: A representation of the Grothendieck group in cubical type theory
+* Supervisor: Thierry Coquand
+* Examiner: Patrik Jansson
+* Source code: https://bitbucket.org/linusbo/disc-ctt
+
+* 2017-01-25: Aborted (=> Fail)
+* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [dry-run](https://masterthesis.cms.chalmers.se/content/representation-grothendieck-group-cubical-type-theory). Extension granted.
+* 2016-06-12: Half-time report: Pass
+* 2016-06-03: Half-time presentation: OK
+* 2016-04-03: Planning report: Pass
+* 2016-03-24: Start
 
 ## Joakim Öhman (1737099)
 
