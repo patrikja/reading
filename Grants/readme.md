@@ -1,5 +1,9 @@
 # Grant applications
 
+## H2020-MSCA-ITN-2017 call
+
+* 2017-02-03: Remote evaluation contract for MSCA-ITN-EID European Industrial Doctorates, MSCA-ITN-EJD European Joint Doctorates, MSCA-ITN-ETN European Training Networks
+
 ## Wolfgang Ahrendt
 
 * 2016-03-27: Read the current draft of WoAh's VR application
