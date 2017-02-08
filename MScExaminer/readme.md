@@ -24,11 +24,11 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* 2017-04-2?: Final presentation
-* 2017-01-25: Half-time report meeting
+* 2017-04-24?: Final presentation
+* 2017-02-08: Half-time report meeting: Pass
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
-* 2016-09-05: Start
+* 2016-09-12: Examiner assigned
 
 # Ongoing: Second half
 
