@@ -70,6 +70,7 @@ Overview of ongoing theses:
 * Supervisor: Atze van der Ploeg
 * Examiner: Patrik Jansson
 
+* 2017-02-19: Report final: Pass (waiting for work card)
 * 2017-02-08: Report draft returned with comments again (final deadline 2017-02-24)
 * 2017-01-17: Report draft returned with comments
 * [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
