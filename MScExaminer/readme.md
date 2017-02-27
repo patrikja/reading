@@ -11,7 +11,6 @@ Overview of ongoing theses:
 | 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
 | 2016-02 | Final stretch | [Chongyun Yao](#chongyun-yao-1715894)                       |
-| 2016-02 | Final stretch | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
 
 # Ongoing: planning stage
 
@@ -64,28 +63,13 @@ Overview of ongoing theses:
 * 2016-02-15: start
 * 2016-02-11: Examiner + supervisor assigned
 
-## Ragnar Lárus Sigurðsson (1717398)
-
-* Title: Practical Performance of Incremental Topological Sorting and Cycle Detection
-* Supervisor: Atze van der Ploeg
-* Examiner: Patrik Jansson
-
-* 2017-02-19: Report final: Pass (waiting for work card)
-* 2017-02-08: Report draft returned with comments again (final deadline 2017-02-24)
-* 2017-01-17: Report draft returned with comments
-* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
-* 2016-10-13: Extension granted
-* 2016-05-03: Half-time report meeting: Pass
-* 2016-02-22: Planning report: Pass
-* 2016-02-09: Examiner + supervisor assigned
-* 2016-02-05: Proposal accepted
-
 # Done
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-02 | 2017-02 | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
 | 2016-02 | 2017-01 | [Jeremy Pope](#jeremy-pope-1717407)               | Aborted
 | 2016-03 | 2017-01 | [Linus Börjesson](#linus-börjesson-1731034)       | Aborted
 | 2016-03 | 2016-12 | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
@@ -98,6 +82,23 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Ragnar Lárus Sigurðsson (1717398)
+
+* Title: Practical Performance of Incremental Topological Sorting and Cycle Detection
+* Supervisor: Atze van der Ploeg
+* Examiner: Patrik Jansson
+
+* 2017-02-23: Work card completed => Final grade: Pass
+* 2017-02-19: Report final: Pass (waiting for work card)
+* 2017-02-08: Report draft returned with comments again (final deadline 2017-02-24)
+* 2017-01-17: Report draft returned with comments
+* [2016-12-15](https://masterthesis.cms.chalmers.se/content/thursday-december-15-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/practical-performance-incremental-topological-sorting-and-cycle-detection): Pass
+* 2016-10-13: Extension granted
+* 2016-05-03: Half-time report meeting: Pass
+* 2016-02-22: Planning report: Pass
+* 2016-02-09: Examiner + supervisor assigned
+* 2016-02-05: Proposal accepted
 
 ## Jeremy Pope (1717407)
 
