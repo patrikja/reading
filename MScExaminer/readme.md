@@ -10,7 +10,6 @@ Overview of ongoing theses:
 | ------- | ------------- | ------------------------------------------------- | ------- |
 | 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
-| 2016-02 | Final stretch | [Chongyun Yao](#chongyun-yao-1715894)                       |
 
 # Ongoing: planning stage
 
@@ -47,32 +46,17 @@ Overview of ongoing theses:
 
 [Between final presentation and final grading.]
 
-## Chongyun Yao (1715894)
-
-* Title: Fuzzing algorithms for security in vehicles
-* Supervisor: Carlo Furia (Chalmers), Henrik Broberg (Volvo)
-* Examiner: Patrik Jansson
-
-* 2017-02-12: Report draft returned with comments (again). Mortal deadline 2017-02-27.
-* [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/fuzzing-algorithms-security-vehicles)
-* 2016-12-19: Report draft: returned with comments
-* 2016-10-28: Extension granted
-* 2016-05-04: (delayed) Half-time report: Pass
-* 2016-04-11: Half-time presentation: OK
-* 2016-03-03: Planning report submitted: Pass
-* 2016-02-15: start
-* 2016-02-11: Examiner + supervisor assigned
-
 # Done
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-02 | 2017-02 | [Chongyun Yao](#chongyun-yao-1715894)             | Fail (Time-out) |
 | 2016-02 | 2017-02 | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
-| 2016-02 | 2017-01 | [Jeremy Pope](#jeremy-pope-1717407)               | Aborted
-| 2016-03 | 2017-01 | [Linus Börjesson](#linus-börjesson-1731034)       | Aborted
-| 2016-03 | 2016-12 | [Joakim Öhman](#joakim-Öhman-1737099)                                        |
+| 2016-02 | 2017-01 | [Jeremy Pope](#jeremy-pope-1717407)               | Fail (Aborted)
+| 2016-03 | 2017-01 | [Linus Börjesson](#linus-börjesson-1731034)       | Fail (Aborted)
+| 2016-03 | 2016-12 | [Joakim Öhman](#joakim-Öhman-1737099)             |
 | 2015-10 | 2016-10 | [Runa Gulliksson](#runa-gulliksson-1684604)                                  |
 | 2016-02 | 2016-06 | [Emil Edholm & David Göransson](#emil-edholm--david-göransson-1711054)       |
 | 2016-01 | 2016-06 | [Sebastian Ivarsson](#sebastian-ivarsson-1707677)                            |
@@ -82,6 +66,23 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Chongyun Yao (1715894)
+
+* Title: Fuzzing algorithms for security in vehicles
+* Supervisor: Carlo Furia (Chalmers), Henrik Broberg (Volvo)
+* Examiner: Patrik Jansson
+
+* 2017-02-28: Report still not ready => Fail.
+* 2017-02-12: Report draft returned with comments (again). Mortal deadline 2017-02-27.
+* [2016-12-20](https://masterthesis.cms.chalmers.se/content/tuesday-december-20-2016): [Final presentation](https://masterthesis.cms.chalmers.se/content/fuzzing-algorithms-security-vehicles)
+* 2016-12-19: Report draft: returned with comments
+* 2016-10-28: Extension granted
+* 2016-05-04: (delayed) Half-time report: Pass
+* 2016-04-11: Half-time presentation: OK
+* 2016-03-03: Planning report submitted: Pass
+* 2016-02-15: start
+* 2016-02-11: Examiner + supervisor assigned
 
 ## Ragnar Lárus Sigurðsson (1717398)
 
