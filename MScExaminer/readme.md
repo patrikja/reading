@@ -8,7 +8,7 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-09 | First half    | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
+| 2016-09 | Second half   | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
 | 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
 
 # Ongoing: planning stage
@@ -16,6 +16,10 @@ Overview of ongoing theses:
 (none)
 
 # Ongoing: First half
+
+(none)
+
+# Ongoing: Second half
 
 ## Joel Magnus Syverud (1803722)
 * Title: Type-based API search for Agda
@@ -27,8 +31,6 @@ Overview of ongoing theses:
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
 * 2016-09-12: Examiner assigned
-
-# Ongoing: Second half
 
 ## David Grankvist (1717326)
 
@@ -45,6 +47,8 @@ Overview of ongoing theses:
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
+
+(none)
 
 # Done
 

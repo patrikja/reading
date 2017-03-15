@@ -1,5 +1,9 @@
 #+STARTUP: logdone
 
+* Arbetsmiljöpolicy på Chalmers
+http://www.chalmers.se/insidan/SV/om-chalmers/arbetsmiljo
+https://student.portal.chalmers.se/sv/kontaktochservice/Documents/Handlingsplan%20arbetsmilj%C3%B6%20och%20j%C3%A4mlikhet%202016-2018.pdf
+https://www.chalmers.se/sv/om-chalmers/hallbarhetsredovisning/socialtansvar/Sidor/Arbetsmiljo.aspx
 
 * Attractive Academia?
 Selection processes from PhD to further academic career with special emphasis on the supervisor relationship
