@@ -26,7 +26,7 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* 2017-04-24?: Final presentation
+* [2017-05-23](https://masterthesis.cms.chalmers.se/content/tuesday-may-23-2017): Final presentation
 * 2017-02-08: Half-time report meeting: Pass
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
@@ -37,7 +37,7 @@ Overview of ongoing theses:
 * Prel. title: Searching for Search Strategies
 * Supervisor: Peter Damaschke
 * Examiner: Patrik Jansson
-* Note: 60 hec thesis (one year instead of half a year)
+* Note: 60 hec thesis (one full year instead of half a year)
 
 * [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation
 * 2016-06-03: Half-time report: Pass
