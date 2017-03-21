@@ -9,7 +9,7 @@ Overview of ongoing theses:
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
 | 2016-09 | Second half   | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
-| 2016-01 | Second half   | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
+| 2016-01 | Final stretch | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
 
 # Ongoing: planning stage
 
@@ -32,6 +32,10 @@ Overview of ongoing theses:
 * 2016-10-03: Planning report: Pass
 * 2016-09-12: Examiner assigned
 
+# Ongoing: Final stretch
+
+[Between final presentation and final grading.]
+
 ## David Grankvist (1717326)
 
 * Prel. title: Searching for Search Strategies
@@ -39,16 +43,10 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one full year instead of half a year)
 
-* [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation
+* [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation: Pass
 * 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
-
-# Ongoing: Final stretch
-
-[Between final presentation and final grading.]
-
-(none)
 
 # Done
 
