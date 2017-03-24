@@ -65,6 +65,10 @@ Hans de Bruijn and Paulien M. Herder
 IEEE
 http://dx.doi.org/10.1109/TSMCA.2009.2025452
 * GRACeFUL deliverables and reports
+** Y2 review presentations
+2017-03-23: Read and commented on the six WP presentations
+** Y2 technical report
+2017-03-20? read and commented the report (by Tom Creemers)
 ** DSL workpackage
 *** D4.1: [Formal Concept Maps Elements Descriptions (GRACeFUL D4.1)](https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1.pdf)
 Authors: Cezar Ionescu and Patrik Jansson

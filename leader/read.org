@@ -1,5 +1,7 @@
 #+STARTUP: logdone
 
+* CSE-org:
+** 2017-03-24: Read Kollegiet-questionnaire summary (40 pages!)
 * Arbetsmiljöpolicy på Chalmers
 http://www.chalmers.se/insidan/SV/om-chalmers/arbetsmiljo
 https://student.portal.chalmers.se/sv/kontaktochservice/Documents/Handlingsplan%20arbetsmilj%C3%B6%20och%20j%C3%A4mlikhet%202016-2018.pdf
