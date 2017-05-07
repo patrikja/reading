@@ -26,7 +26,10 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* [2017-05-23](https://masterthesis.cms.chalmers.se/content/tuesday-may-23-2017): Final presentation
+* [2017-08-28: 50 weeks] possible next limit
+* [2017-06-19: 40 weeks] current limit
+* 2017-05-23: (planned final presentation: delayed)
+* [2017-04-10: 30 weeks] - limit extended to 30 weeks
 * 2017-02-08: Half-time report meeting: Pass
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
@@ -43,7 +46,11 @@ Overview of ongoing theses:
 * Examiner: Patrik Jansson
 * Note: 60 hec thesis (one full year instead of half a year)
 
+
+* [2017-06-01: 70-week mark]
+* [2017-03-23: 60-week mark]
 * [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation: Pass
+* [2017-01-12: 50-week mark]
 * 2016-06-03: Half-time report: Pass
 * 2016-02-24: Planning report: Pass
 * 2016-01-28: Examiner + supervisor assigned
