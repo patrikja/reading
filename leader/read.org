@@ -1,5 +1,14 @@
 #+STARTUP: logdone
 
+* Systematiskt arbetsmiljöarbete (SAM)
+http://www.prevent.se/checklistor/
+** Done: SAM generellt   http://checklists.prevent.se/checklist/answer/35
+** Done: Arb.org.        http://checklists.prevent.se/checklist/answer/28
+** Done: Skador&tillbud  http://checklists.prevent.se/checklist/answer/29
+** Done: Rutiner         http://checklists.prevent.se/checklist/answer/44
+** Done: Rutiner risker  http://checklists.prevent.se/checklist/answer/43
+** TODO: Intro nya       http://checklists.prevent.se/checklist/answer/40
+** TODO: Allmänt kontor  http://checklists.prevent.se/checklist/answer/90
 * CSE-org:
 ** 2017-03-24: Read Kollegiet-questionnaire summary (40 pages!)
 * Arbetsmiljöpolicy på Chalmers
