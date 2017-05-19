@@ -3,6 +3,20 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** SPEW: Synthetic Populations and Ecosystems of the World
+https://arxiv.org/pdf/1701.02383.pdf
+Shannon Gallagher, Lee Richardson, Samuel L. Ventura, and William F. Eddy∗
+Department of Statistics, Carnegie Mellon University
+
+2017-05-19: Read.
+
+Using R. Running on super-computer center [Olympus Computing Cluster at the Pittsburgh Supercomputing Center (PSC)].
+
+*** 3.2.2: I think "the The Gambia" should be "The Gambia"
+
+*** TODO explore the source code https://github.com/leerichardson/spew
+*** TODO port computationally intensive kernels to other languages (like C) better suited for HPC systems
+
 ** Large-Scale Computing Techniques for Complex System Simulations
 Werner Dubitzky, Krzysztof Kurowski, Bernard Schott
 http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118130499.html
