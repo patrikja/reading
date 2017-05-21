@@ -32,6 +32,61 @@ November, 2016
 ** Audiobook through Storytel
 ** 2016-11-03: up to 6h24m (3h18m left)
 * Fakultetsmodellen
+** Kartläggning av institutionernas sätt att beräkna undervisningstid
+ett uppdrag inom programmet för implementering av nya fakultetsmodellen
+   http://document.chalmers.se/doc/6084fd60-5d2f-41b4-adda-d1cd01bd6666
+*** Läst: 2017-05-21
+
++ Många olika sätt används för att fördela undervisningsuppdrag till
+  individer
+
++ Stor spridning i andelen GRU-intäkt jmf. med basfinansierad
+  FoFu. Med Chalmers snitt som 100% får A bara 36%, CSE 74%, S2 102%,
+  F 182% och MC2 555%.
+
++
+
+** Simulering av ny fakultetsmodell
+   http://document.chalmers.se/download?docid=1e293b06-c1a7-4d8c-8735-84df7e0d0f16
+*** 2017-05-21: Läst: http://www.chalmers.se/insidan/SV/aktuellt/nyheter/artiklar/elva-institutioner
+*** 2017-05-21: Läst: Delrapport simulering
+
+**** 2.3: Resultat - antal fakultetspersoner med över 80 % externfinansiering
+
+"Enligt ett av de preliminära ställningstagande som styrgruppen för
+uppdraget har tagit, är det inte förenligt med modellen att vara
+externt finansierad till mer än 80 % då det i uppdraget för den
+basfinansierade fakulteten ingår att delta i både forskning,
+utbildning och nyttiggörande. Simuleringen visar att 21 personer på de
+11 institutioner som gjort simuleringen har en extern finansiering
+till mer än 80 %. En institution utmärker sig med 8 personer, övriga
+institutioner har angivit att det idag är mellan 0 och 2 personer per
+institution som har externa uppdrag på mer än 80 %."
+
+**** 3.2 Dimensionering på Chalmers
+
+En stor utmaning är att de ekonomiska förutsättningarna blir mycket
+olika mellan institutionerna. Detta kräver ett omtag kring
+dimensionering avseende både grundutbildningen och forskningen. Den
+stora skillnaden på nivå av basfinansiering mellan institutionerna
+visar på dessa skillnader liksom fördelningen av
+grundutbildningsuppdrag samt fördelningen av slottar.
+
+** Slutrapport förväntningar på basfinansierade tjänster inkl. bilagor C2015-1370.pdf
+   http://document.chalmers.se/download?docid=894194a5-57aa-4a79-9fb4-4c37de0592b9
+*** Läst 2017-05-21
+
+   Lite diffust vad resultatet är "Bilaga 1: Sammanställning" är nog
+   närmast. Det finns flera senare bilagor som överlappar till stor
+   del. Delrapporter?
+
+** Lägesrapport från Mats Viberg Q4-16_170131.pdf
+*** 2017-05-21: Läst: http://document.chalmers.se/doc/002b1be9-11d0-40be-aa29-00bce59322a8
+  Omtag av fördelning av slottar och uppdrag ("Strategisk och långsiktig dimensionering av fakulteten"
+  Tid för grundutbildning
+  Förväntningar på fakulteten
+  Gemensam ekonomisk hantering av basfinansieringen på institution (Simulering av fullt inför fakultetsmodell)
+
 ** Lägesrapport Q3 - Implementering av nya fakultetsmodellen (Mats Viberg)
 + Vidarefördelning av basfinansiering
 ++ målet på sikt är 75% per enhet (inst. eller avdelning) - inte per individ
