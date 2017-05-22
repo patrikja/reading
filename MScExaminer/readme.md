@@ -26,10 +26,10 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* [2017-08-28: 50 weeks] possible next limit
-* [2017-06-19: 40 weeks] current limit
+* 2017-08-28: [50 weeks] final limit
+* 2017-08-23: final presentation
 * 2017-05-23: (planned final presentation: delayed)
-* [2017-04-10: 30 weeks] - limit extended to 30 weeks
+* [2017-04-10: 30 weeks] - limit extended from 30 weeks
 * 2017-02-08: Half-time report meeting: Pass
 * 2016-11-20: Delayed actual start of main body of work
 * 2016-10-03: Planning report: Pass
