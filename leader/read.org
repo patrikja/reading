@@ -1,5 +1,30 @@
 #+STARTUP: logdone
 
+* Beslut på Chalmers
+** [[http://document.chalmers.se/download?docid=55f5593f-8f5d-411f-a508-c36dcc093ef0][C 2017-0545]], 2017-04-23, Beslut av rektor om fastställande av principer för fördelning av fakultetsmedel 2018
+
+I korthet: Inför VP2018 räknas de nya institutionerna som om det funnits från 2017-01-01.
+
+** [[http://document.chalmers.se/download?docid=98c16e74-659c-425e-91d7-fdb26937c2e6][C 2017-0547]], 2017-02-02, Beslut av rektor att fastställa Chalmers jämställdhetsintegrering
+
+Short summary of the decision C 2017-0547 at Chalmers
+
+The steering committee for the gender mainstreaming process at
+Chalmers has decided on the following strategy:
+
++ 1. In order to achieve increased quantitative gender equality in all
+  positions at Chalmers active search processes will be used to
+  attract applicants of both sexes. This has previously applied to
+  academic positions only but will now also include administrative and
+  technical staff.
++ 2. A model of "gender budgeting" should be developed and
+  implemented.
++ 3. Knowledge and experience of gender equality should be asked for
+  and be a merit when appointing persons to management positions.
++ 4. Gender issues will be incorporated into existing training
+  programs for managers and supervisors.
+
+**
 * Systematiskt arbetsmiljöarbete (SAM)
 http://www.prevent.se/checklistor/
 ** Done: SAM generellt   http://checklists.prevent.se/checklist/answer/35
@@ -7,8 +32,8 @@ http://www.prevent.se/checklistor/
 ** Done: Skador&tillbud  http://checklists.prevent.se/checklist/answer/29
 ** Done: Rutiner         http://checklists.prevent.se/checklist/answer/44
 ** Done: Rutiner risker  http://checklists.prevent.se/checklist/answer/43
-** TODO: Intro nya       http://checklists.prevent.se/checklist/answer/40
-** TODO: Allmänt kontor  http://checklists.prevent.se/checklist/answer/90
+** Done: Intro nya       http://checklists.prevent.se/checklist/answer/40
+** Done: Allmänt kontor  http://checklists.prevent.se/checklist/answer/90
 * CSE-org:
 ** 2017-03-24: Read Kollegiet-questionnaire summary (40 pages!)
 * Arbetsmiljöpolicy på Chalmers
