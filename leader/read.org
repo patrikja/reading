@@ -25,6 +25,24 @@ Chalmers has decided on the following strategy:
   programs for managers and supervisors.
 
 **
+* Organisatorisk och social arbetsmiljö (AFS 2015:4)
+
+https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/organisatorisk-och-social-arbetsmiljo-afs-20154/
+
+Svenska: https://www.av.se/globalassets/filer/publikationer/foreskrifter/organisatorisk-och-social-arbetsmiljo-foreskrifter-afs2015_4.pdf
+
+English: https://www.av.se/globalassets/filer/publikationer/foreskrifter/engelska/organisational-and-social-work-environment-afs2015-4.pdf
+
+| English               | Svenska                 |
+|-----------------------+-------------------------|
+| manager               | chef                    |
+| supervisor            | arbetsledare            |
+| safety representative | skyddsombud             |
+| victimization         | kränkande särbehandling |
+| tillbud               | incident                |
+| olycka                | accident                |
+
+
 * Systematiskt arbetsmiljöarbete (SAM)
 http://www.prevent.se/checklistor/
 ** Done: SAM generellt   http://checklists.prevent.se/checklist/answer/35
