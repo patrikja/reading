@@ -9,7 +9,6 @@ Overview of ongoing theses:
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
 | 2016-09 | Second half   | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
-| 2016-01 | Final stretch | [David Grankvist](#david-grankvist-1717326)                 | 60-hec thesis
 
 # Ongoing: planning stage
 
@@ -39,28 +38,13 @@ Overview of ongoing theses:
 
 [Between final presentation and final grading.]
 
-## David Grankvist (1717326)
-
-* Prel. title: Searching for Search Strategies
-* Supervisor: Peter Damaschke
-* Examiner: Patrik Jansson
-* Note: 60 hec thesis (one full year instead of half a year)
-
-
-* [2017-06-01: 70-week mark]
-* [2017-03-23: 60-week mark]
-* [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation: Pass
-* [2017-01-12: 50-week mark]
-* 2016-06-03: Half-time report: Pass
-* 2016-02-24: Planning report: Pass
-* 2016-01-28: Examiner + supervisor assigned
-
 # Done
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-01 | 2017-06 | [David Grankvist](#david-grankvist-1717326)       | 60-hec thesis |
 | 2016-02 | 2017-02 | [Chongyun Yao](#chongyun-yao-1715894)             | Fail (Time-out) |
 | 2016-02 | 2017-02 | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
 | 2016-02 | 2017-01 | [Jeremy Pope](#jeremy-pope-1717407)               | Fail (Aborted)
@@ -75,6 +59,20 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## David Grankvist (1717326)
+
+* Title: Searching for Search Strategies
+    * Subtitle: Solutions to Strict Group Testing Problem Instances
+* Supervisor: Peter Damaschke
+* Examiner: Patrik Jansson
+* Note: 60 hec thesis (one full year instead of half a year)
+
+* 2017-06-11: Final report: Pass
+* [2017-03-21](https://masterthesis.cms.chalmers.se/content/tuesday-march-21-2017): Final presentation: Pass
+* 2016-06-03: Half-time report: Pass
+* 2016-02-24: Planning report: Pass
+* 2016-01-28: Examiner + supervisor assigned
 
 ## Chongyun Yao (1715894)
 
