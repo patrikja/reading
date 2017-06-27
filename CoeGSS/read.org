@@ -284,6 +284,8 @@ learning;-)
 *** 2015-10-31: App.: pages 160-167. Done.
 ** CoeGSS D1.1 – First Periodic Project Report
 2016-12-01: Skimmed
+** CoeGSS D3.3 version 1.0 review
+** CoeGSS D3.3 version 0.9 review
 ** CoeGSS D3.2 version 1.0
 + Read T3.6 (2016-03-22)
 ** CoeGSS D3.2 version 0.9 + reviews
