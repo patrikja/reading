@@ -1,5 +1,7 @@
 #+STARTUP: logdone
 
+* Brainwave: offerter
+Två offerter lästa 2017-07-26.
 * Beslut på Chalmers
 ** [[http://document.chalmers.se/download?docid=55f5593f-8f5d-411f-a508-c36dcc093ef0][C 2017-0545]], 2017-04-23, Beslut av rektor om fastställande av principer för fördelning av fakultetsmedel 2018
 
@@ -41,7 +43,6 @@ English: https://www.av.se/globalassets/filer/publikationer/foreskrifter/engelsk
 | victimization         | kränkande särbehandling |
 | tillbud               | incident                |
 | olycka                | accident                |
-
 
 * Systematiskt arbetsmiljöarbete (SAM)
 http://www.prevent.se/checklistor/
