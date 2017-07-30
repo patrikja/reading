@@ -84,6 +84,8 @@ Source code: https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1/
 http://dx.doi.org/10.1007/978-3-642-23099-8
 
 2017-07-28: Skimmed pages 1-116. (Up to section 3.9: Finite element exterior calculus)
+2017-07-29: Pages 117-128
+2017-07-30: Pages 129-142
 
 ** Differential forms and integration
 Terence Tao
