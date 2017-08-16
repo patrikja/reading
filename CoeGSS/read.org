@@ -3,6 +3,14 @@
 CoEGSS = Center of Excellence on Global Systems Science
 
 * To read:
+** Type-Driven Development with Idris
+Edwin Brady
+March 2017 ISBN 9781617293023 480 pages printed in black & white
+https://www.manning.com/books/type-driven-development-with-idris
+
+2017-07-25: p1-10
+
+
 ** SPEW: Synthetic Populations and Ecosystems of the World
 https://arxiv.org/pdf/1701.02383.pdf
 Shannon Gallagher, Lee Richardson, Samuel L. Ventura, and William F. Eddy∗
