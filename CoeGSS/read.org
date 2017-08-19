@@ -9,7 +9,7 @@ March 2017 ISBN 9781617293023 480 pages printed in black & white
 https://www.manning.com/books/type-driven-development-with-idris
 
 2017-07-25: p1-10
-
+2017-08-17: -p14
 
 ** SPEW: Synthetic Populations and Ecosystems of the World
 https://arxiv.org/pdf/1701.02383.pdf

@@ -80,6 +80,19 @@ Source code: https://github.com/patrikja/GRACeFUL/blob/master/deliverables/d4.1/
 ** Y1 technical report
 2016-02-24: Read and commented the draft by Tom Creemers.
 * Functional FEEC
+** Large scale numerical software development using functional languages
+
+2017-08-19: Skimmed this thesis:
+
+@article{angus1998large,
+  title =	 {Large scale numerical software development using
+                  functional languages},
+  author =	 {Angus, Christopher Michael},
+  year =	 {1998},
+  publisher =	 {Newcastle University}
+}
+https://theses.ncl.ac.uk/dspace/bitstream/10443/2136/1/Angus%2c%20C.%201998.pdf
+
 ** Automated Solution of Differential Equations by the Finite Element Method -- The FEniCS Book
 http://dx.doi.org/10.1007/978-3-642-23099-8
 
