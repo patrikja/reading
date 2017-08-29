@@ -34,6 +34,11 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** Escardo & Oliva: Selection
+https://www.cs.bham.ac.uk/~mhe/papers/selection-escardo-oliva.pdf
+
+2017-08-29: Read up to p16
+
 ** The Tragedy of the Commons
 Garrett Hardin
 + Author Affiliations
