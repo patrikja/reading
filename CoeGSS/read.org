@@ -38,6 +38,7 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 https://www.cs.bham.ac.uk/~mhe/papers/selection-escardo-oliva.pdf
 
 2017-08-29: Read up to p16
+2017-08-30: Skimmed the rest. Heavy categorical machinery employed!
 
 ** The Tragedy of the Commons
 Garrett Hardin
