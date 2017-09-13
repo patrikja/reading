@@ -25,8 +25,9 @@ Overview of ongoing theses:
 * Supervisor: Andreas Abel
 * Examiner: Patrik Jansson
 
-* 2017-10-02: [55 weeks] final limit
-* 2017-09-21: final presentation
+* 2017-11-06: [60 weeks] final limit
+* [2017-10-23](https://masterthesis.cms.chalmers.se/content/monday-october-23-2017): final presentation
+* 2017-09-21: (planned final presentation: delayed)
 * 2017-08-23: (planned final presentation: delayed)
 * 2017-05-23: (planned final presentation: delayed)
 * [2017-04-10: 30 weeks] - limit extended from 30 weeks
