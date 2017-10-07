@@ -8,7 +8,6 @@ Overview of ongoing theses:
 
 | Start   | Stage         | Student(s)                                        | Comment |
 | ------- | ------------- | ------------------------------------------------- | ------- |
-| 2016-09 | Second half   | [Joel Magnus Syverud](#joel-magnus-syverud-1803722)         |
 
 # Ongoing: planning stage
 
@@ -20,32 +19,17 @@ Overview of ongoing theses:
 
 # Ongoing: Second half
 
-## Joel Magnus Syverud (1803722)
-* Title: Type-based API search for Agda
-* Supervisor: Andreas Abel
-* Examiner: Patrik Jansson
-
-* 2017-11-06: [60 weeks] final limit
-* [2017-10-23](https://masterthesis.cms.chalmers.se/content/monday-october-23-2017): final presentation
-* 2017-09-21: (planned final presentation: delayed)
-* 2017-08-23: (planned final presentation: delayed)
-* 2017-05-23: (planned final presentation: delayed)
-* [2017-04-10: 30 weeks] - limit extended from 30 weeks
-* 2017-02-08: Half-time report meeting: Pass
-* 2016-11-20: Delayed actual start of main body of work
-* 2016-10-03: Planning report: Pass
-* 2016-09-12: Examiner assigned
-
 # Ongoing: Final stretch
 
 [Between final presentation and final grading.]
 
-# Done
+# Done (Pass or Fail)
 
 (from 2015-06-01 onwards):
 
 | Start   | End     | Student(s)                                        | Comment |
 | ------- | ------- | ------------------------------------------------- | ------- |
+| 2016-09 | 2017-10 | [Joel Magnus Syverud](#joel-magnus-syverud-1803722) | Fail (Time-out) |
 | 2016-01 | 2017-06 | [David Grankvist](#david-grankvist-1717326)       | 60-hec thesis |
 | 2016-02 | 2017-02 | [Chongyun Yao](#chongyun-yao-1715894)             | Fail (Time-out) |
 | 2016-02 | 2017-02 | [Ragnar Lárus Sigurðsson](#ragnar-lárus-sigurðsson-1717398) |
@@ -61,6 +45,22 @@ Overview of ongoing theses:
 | 2015-02 | 2015-10 | [Jesper Lungqvist](#jesper-lungqvist-1582993)        |
 | 2015-02 | 2015-10 | [Irene Lobo Valbuena](#irene-lobo-valbuena-1582484)  |
 | 2015-02 | 2015-06 | [Linus Färnstrand](#linus-färnstrand-1582688)        |
+
+## Joel Magnus Syverud (1803722)
+* Title: Type-based API search for Agda
+* Supervisor: Andreas Abel
+* Examiner: Patrik Jansson
+
+* 2017-10-07: Fail (time-out)
+* 2017-10-23: (planned final presentation: delayed)
+* 2017-09-21: (planned final presentation: delayed)
+* 2017-08-23: (planned final presentation: delayed)
+* 2017-05-23: (planned final presentation: delayed)
+* [2017-04-10: 30 weeks] - limit extended from 30 weeks
+* 2017-02-08: Half-time report meeting: Pass
+* 2016-11-20: Delayed actual start of main body of work
+* 2016-10-03: Planning report: Pass
+* 2016-09-12: Examiner assigned
 
 ## David Grankvist (1717326)
 
