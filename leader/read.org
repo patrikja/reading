@@ -1,6 +1,22 @@
 #+STARTUP: logdone
 
+* Gender
+Läslista
+** "Guide för jämställd forskning i Europa" https://www.tidningencurie.se/nyheter/2017/05/24/guide-for-jamstalld-forskning-i-europa/
+** http://eige.europa.eu/news-and-events/news/no-more-excuses-ignore-gender-concerns-use-our-guide
+** http://www.jamstall.nu/nu-lanseras-eiges-nya-plattform-jamstalldhetsintegrering-16110/
+** [[file:~/Dropbox/To_read/e21718-download.pdf]["Gender bias in scholarly peer review"]] paper to read https://elifesciences.org/content/6/e21718
+** Ny bok: "Women in computing at CMU"
+  "Kicking butt in computer science: Women in computing at Carnegie Mellon University"
+        http://women-in-computing.com
+
+  Peter Ljunglöf har ett exemplar
+
 * GU
+** Bisysslor
+http://www.pa.adm.gu.se/digitalAssets/1375/1375540_bisyssleregler-juni-2012.pdf
+http://medarbetarportalen.gu.se/digitalAssets/1647/1647484_regler-f--r-redovisning-och-registrering-av-bisysslor.pdf
+
 ** VP-processen
 2017-10: Läser på inför VP-möte med IT-fakulteten
 *** 1. Anvisningar för handlings- och verksamhetsplaner 2018-2020.docx
