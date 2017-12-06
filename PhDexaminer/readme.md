@@ -15,12 +15,14 @@ Started 2016-04-04.
 
 ## Markus Aronsson
 
-Started 2014.
+Started 2014-08.
 
 * Examiner: Patrik Jansson
 * Supervisor: Mary Sheeran
 
 ## Dan Rosén
+
+Started 2013-01.
 
 * Examiner: Patrik Jansson
 * Supervisor: Koen Claessen
@@ -34,6 +36,8 @@ Started 2014.
 * Lic. seminar: [Pass] 2016-03-08
 
 ## Anton Ekblad
+
+Started 2013-04.
 
 * Examiner: Patrik Jansson
 * Supervisor: Koen Claessen
