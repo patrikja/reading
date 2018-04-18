@@ -34,6 +34,16 @@ Mainly Chapter 5.
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 *** 2015-10-22: Read 80%.
 * Read
+** World Models - Can agents learn inside of their own dreams?
+DAVID HA Google Brain otoro.net
+JÜRGEN SCHMIDHUBER NNAISENSE Swiss AI Lab, IDSIA (USI & SUPSI)
+March 27 2018
+Citation doi:10.5281/zenodo.1207631
+Download PDF
+https://worldmodels.github.io/
+
+2018-04-18: Interesting read.
+
 ** Escardo & Oliva: Selection
 https://www.cs.bham.ac.uk/~mhe/papers/selection-escardo-oliva.pdf
 
