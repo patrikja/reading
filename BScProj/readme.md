@@ -2,6 +2,13 @@
 
 # Ongoing projects
 
+## Learn You a Physics for Great Good!
+
+* 2018-05-02: Read the first two chapters of https://dslsofmath.github.io/BScProj2018/
+* 2018-04-25: Read the draft report
+
+# Fininshed projects
+
 ## DSLsofMath
 
 * Prel. titel: Programmering som undervisningsverktyg för signaler och system
