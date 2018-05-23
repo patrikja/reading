@@ -1,3 +1,11 @@
+* Read:
+
+** Understanding Deep Convolutional Networks
+Stéphane Mallat
+https://arxiv.org/abs/1601.04920
+
+2018-05-17: Skimmed.
+
 * To read:
 
 ** Refinement Reflection
