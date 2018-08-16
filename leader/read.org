@@ -37,6 +37,10 @@ http://medarbetarportalen.gu.se/digitalAssets/1647/1647484_regler-f--r-redovisni
 * Brainwave: offerter
 Två offerter lästa 2017-07-26.
 * Beslut på Chalmers
+** C2015-1370, 2018-04-15, Rapport: Utvärdering av implementering av fakultetsmodellen
+Helene Bergsten
+Programmet för Chalmers nya fakultetsfördelningsmodell
+Läst 2018-08-15.
 ** [[http://document.chalmers.se/download?docid=55f5593f-8f5d-411f-a508-c36dcc093ef0][C 2017-0545]], 2017-04-23, Beslut av rektor om fastställande av principer för fördelning av fakultetsmedel 2018
 
 I korthet: Inför VP2018 räknas de nya institutionerna som om det funnits från 2017-01-01.
