@@ -1,3 +1,10 @@
+# The simple essence of automatic differentiation
+Author:	Conal Elliott	Target, USA
+
+https://dl.acm.org/citation.cfm?doid=3243631.3236765
+
+2018-11-10: Nice a clean category theory + Haskell explanation of differentiable programming.
+
 # GHC
 
 ## Release notes for ghc 8.0.1
