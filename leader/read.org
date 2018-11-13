@@ -1,5 +1,10 @@
 #+STARTUP: logdone
 
+* Some hard numbers on science’s leadership problems
+Note "How to help labs do better science" and "Training gap": PIs want management training (and the other employees also want the PIs to get such training).
+https://www.nature.com/articles/d41586-018-05143-8?utm_source=briefing-dy&utm_medium=email&utm_campaign=briefing&utm_content=20180516
+Read 2018-08-27
+
 * Gender
 Läslista
 ** "Guide för jämställd forskning i Europa" https://www.tidningencurie.se/nyheter/2017/05/24/guide-for-jamstalld-forskning-i-europa/
