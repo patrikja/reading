@@ -1,3 +1,17 @@
+* Bootstrapworld.org
+
+Working through some material with Endre.
+
+** Hour of Code 2018
+Read 2018-12-23
+
+** Bootstrap:Algebra
+https://www.bootstrapworld.org/materials/fall2018/courses/algebra/en-us/
+
+2018-12-25: Unit 1
+
+
+
 * Sammanfattning, uppföljning av masterutbildningar inom D/IT vid Chalmers
 av Per Warfvinge, Christina Åkerman, LTH, Lunds universitet
 
