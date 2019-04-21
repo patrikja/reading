@@ -1,4 +1,10 @@
-To read:
+To read / already read:
+
+* DONE Syntactic/Semantic Analysis for High-Precision Math Linguistics
+Jan Frederik Schaefer, Michael Kohlhase
+https://www.cicm-conference.org/2018/infproc/WiP1.pdf
+
+Read 2019-04-19.
 
 * Introduction to Probability and Statistics: Principles and Applications for Engineering and the Computing Sciences
 Milton, J. Susan; Arnold, Jesse
@@ -63,7 +69,7 @@ https://wiki.science.ru.nl/tfpie/images/4/4a/Tfpie2014_submission_6.pdf
   https://www.cs.tufts.edu/~nr/pubs/htdp-tablet.pdf
 Started reading 2015-06-20.
 Very well written and interesting.
-* Painless Conjugate Gradient, J. R. Chewchuk
+* DONE Painless Conjugate Gradient, J. R. Chewchuk
 http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 A detailed explanation and illustration of the "Conjugate gradient" method for solving large sparse matrix equations.
 * "Functional Differential Geometry", by Gerald Jay Sussman and Jack Wisdom
@@ -71,7 +77,7 @@ A detailed explanation and illustration of the "Conjugate gradient" method for s
   https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf
 
 Read:
-* "How to Solve It", Polya
+* DONE "How to Solve It", Polya
 ** 2015-11-19: Intro (1-30)
 Polya's "How to Solve It"
 + 1. Understanding the problem (unknowns, data, conditions; *notation*)
