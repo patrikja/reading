@@ -1,4 +1,13 @@
 * Read:
+**  [[https://scholar.google.com/scholar_url?url=https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/25612/WPTE_2022_3_.pdf%3Fsequence%3D1%26isAllowed%3Dy&hl=en&sa=X&d=13868957806933366312&ei=2UnNYv-QH-2O6rQPoLq--As&scisig=AAGBfm1QJ-v0198g1P5F-86uanSG68AfKA&oi=scholaralrt&hist=eIO4EBAAAAAJ:10555662735107339469:AAGBfm2_essUvN3SZDH1oMd14fGmpCHG9g&html=&pos=0&folt=art]["[PDF] Towards a refactoring tool for dependently-typed programs"]]
++ Read 2022-09-28.
++ Short (8 pages) paper showing a few examples of refactorings of dependently-typed programs.
+** Models of linear logic, M. Bergeron & W. Hatcher, 1997
+https://link.springer.com/content/pdf/10.1007/BF02358992.pdf
+Read 2019-12-20.
+TODO find out if the open question at the end has been closed "However, the problem of constructing a generic model for positive linear logic remains open."
+
+Read also https://en.wikipedia.org/wiki/Linear_logic 
 
 ** Understanding Deep Convolutional Networks
 Stéphane Mallat
